@@ -13,7 +13,7 @@ Box 1: Demonstrating the psychedelic search terms used in Web of Science.
 
 ### The Collection Process 
 
-<div align="center"><img src="https://github.com/Orlz/Psychedelic_knowledge_graphs.git/0_data_collection/Flowchart.png"/></div>
+<div align="center"><img src="https://github.com/Orlz/Psychedelic_Knowledge_Graphs/blob/master/0_data_collection/Flowchart.png"/></div>
 
 Figure 1: The PRISMA data collection process 
 
