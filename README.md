@@ -1,4 +1,4 @@
 # Psychedelic_Knowledge_Graphs
 This repository builds an information extraction pipeline for psychedelic research articles
 
-Running into large file problems pushing to git, trying my best to get them on here by today. 
+Ran into multiple problems pushing large files to git, really sorry about the delay. Trying my best to get these on here today.
