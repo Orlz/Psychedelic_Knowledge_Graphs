@@ -8,7 +8,7 @@ This repository builds an information extraction pipeline for the top cited psyc
 
 The project starts with a PRISMA data collection which identifies the top cited research articles in the domain of psychedelic research for depression. The discussion and conclusion sections of the selected articles are scraped and passed through the 4-step pipeline outlined below:  
 
-<div align="center"><img src="https://github.com/Orlz/Psychedelic_Knowledge_Graphs/blob/master/5_script_for_future_research/Readme_images/pipeline.png" width="800" height="250" /></div>
+<div align="center"><img src="https://github.com/Orlz/Psychedelic_Knowledge_Graphs/blob/master/5_script_for_future_research/Readme_images/pipeline.png" width="600" height="200" /></div>
 
 ## Repository Folders
 
