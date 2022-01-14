@@ -1,3 +1,8 @@
+"""
+This script is used to transform the annotated relations extraction files into binary spacy files, which can be used in the training script. 
+The files are read in one at a time by ammending the input file on line 34, at 'ann = ' 
+"""
+
 import json
 
 import typer
