@@ -15,7 +15,7 @@ The project starts with a PRISMA data collection which identifies the top cited 
 
 ## Repository Folders
 
-The repository has been split into folders which hold the code and data used in each step of the pipeline. 
+The repository has been split into folders which hold the code and data used in each step of the pipeline.
 
 ```
  Step                       | Folder Name                 
@@ -56,3 +56,5 @@ $ source Psychedelic_KGs/bin/activate
 ## Future steps for the project 
 
 The project above can be seen as a stepping stone to the next step, which would be to firstly develop a more efficient way to annotate the scientific articles, then generalise the notebooks into python scripts with parameter options for adapting them to individual projects. Secondly, media articles could be collected which were thought to be written in response to the publication of the scientific articles. This could be achieved by searching for publications mentioning psychedelic research and either the author name or institution from which the research was published. The media articles could then be run through the same pipeline to create comparable graphs, and visual inspection between the media graphs and scientific graphs could perhaps highlight areas of misalignment or inconsistency between the two medium's 'stories'. As more fields close to psychedelic research produced labelled data of high quality, the models trained to work with the data could improve to make results more reliable. For now, we will start with preliminary steps to build models and consider what such models need to be considered valuable to the field of psychedelic research. 
+
+I hope you enjoyed the project. If you have any questions, you can always reach out to orla.mallon@icloud.com
