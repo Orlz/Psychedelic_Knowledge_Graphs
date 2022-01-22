@@ -1,0 +1,1459 @@
+,entity 1,entity 1 label,entity 2,entity 2 label,type
+0,psilocybin,DRUG,psychological distress,OUTCOME,POSITIVELY IMPACTS
+1,psilocybin,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2,psilocybin,DRUG,suicidality,OUTCOME,POSITIVELY IMPACTS
+3,mystical-type experience,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+4,mystical-type experience,SUBJECTIVE,suicidality,OUTCOME,POSITIVELY IMPACTS
+11,psilocybin,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+17,psilocybin,DRUG,psilocin,DRUG,POSITIVELY IMPACTS
+20,hallucinogens,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+25,hallucinogens,DRUG,tolerated the treatment sessions well,OUTCOME,POSITIVELY IMPACTS
+26,hallucinogens,DRUG,modest effects,OUTCOME,POSITIVELY IMPACTS
+27,hallucinogens,DRUG,terminal cancer,HEALTH,POSITIVELY IMPACTS
+28,hallucinogens,DRUG,"therapeutic outcome.10,12",OUTCOME,POSITIVELY IMPACTS
+29,hallucinogens,DRUG,examining how Common illness had impacted Common lives,OUTCOME,POSITIVELY IMPACTS
+30,hallucinogens,DRUG,relationships with family and close friends,OUTCOME,POSITIVELY IMPACTS
+31,hallucinogens,DRUG,sense of ontological security,OUTCOME,POSITIVELY IMPACTS
+32,hallucinogens,DRUG,powerful empathic cathexis to close friends and family members,OUTCOME,POSITIVELY IMPACTS
+33,hallucinogens,DRUG,how subjects wished to address subjects limited life expectancy,OUTCOME,POSITIVELY IMPACTS
+34,hallucinogens,DRUG,pronounced therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+35,psilocybin,DRUG,therapeutic benefit,OUTCOME,POSITIVELY IMPACTS
+37,psilocybin,DRUG,stress,HEALTH,POSITIVELY IMPACTS
+39,psilocybin,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+40,positive outcome,OUTCOME,mood,OUTCOME,POSITIVELY IMPACTS
+44,psilocybin,DRUG,mood-elevating effects,OUTCOME,POSITIVELY IMPACTS
+48,psilocybin,DRUG,strong therapeutic bonds,OUTCOME,POSITIVELY IMPACTS
+49,psilocybin,DRUG,ameliorating underlying psychological demoralization,OUTCOME,POSITIVELY IMPACTS
+50,psilocybin,DRUG,existential anxiety,HEALTH,POSITIVELY IMPACTS
+51,psilocybin,DRUG,despair,HEALTH,POSITIVELY IMPACTS
+54,safety and promise,OUTCOME,existential anxiety,HEALTH,POSITIVELY IMPACTS
+55,safety and promise,OUTCOME,despair,HEALTH,POSITIVELY IMPACTS
+56,hallucinogenic compounds,DRUG,existential anxiety,HEALTH,POSITIVELY IMPACTS
+57,hallucinogenic compounds,DRUG,despair,HEALTH,POSITIVELY IMPACTS
+60,LSD,DRUG,therapeutic improvement,OUTCOME,POSITIVELY IMPACTS
+62,LSD,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+63,LSD,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+66,psilocybin,DRUG,favourable toxicity profile,OUTCOME,POSITIVELY IMPACTS
+67,psilocybin,DRUG,not associated with compulsive drug-seeking behaviours,OUTCOME,POSITIVELY IMPACTS
+69,ketamine,DRUG,smokers,HEALTH,POSITIVELY IMPACTS
+70,ketamine,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+71,ketamine,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+72,psilocybin,DRUG,smokers,HEALTH,POSITIVELY IMPACTS
+76,psilocybin,DRUG,clinical improvements,OUTCOME,POSITIVELY IMPACTS
+79,suggestibility,OUTCOME,antidepressant,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+84,psychedelics,DRUG,novel pharmacological action,OUTCOME,POSITIVELY IMPACTS
+85,psilocybin,DRUG,novel pharmacological action,OUTCOME,POSITIVELY IMPACTS
+86,Psilocybin,DRUG,antidepressant,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+87,Psilocybin,DRUG,novel pharmacological action,OUTCOME,POSITIVELY IMPACTS
+92,psychedelics,DRUG,subjective and behavioral effects,OUTCOME,POSITIVELY IMPACTS
+127,PCC,NEURAL,self,SUBJECTIVE,POSITIVELY IMPACTS
+128,DMN,NEURAL,ego,SUBJECTIVE,POSITIVELY IMPACTS
+130,connector hubs,OUTCOME,self,SUBJECTIVE,POSITIVELY IMPACTS
+131,connector hubs,OUTCOME,ego,SUBJECTIVE,POSITIVELY IMPACTS
+132,connector hubs,OUTCOME,efficient information transfer,OUTCOME,POSITIVELY IMPACTS
+133,connector hubs,OUTCOME,allowing communication between different regions,OUTCOME,POSITIVELY IMPACTS
+134,psilocybin,DRUG,efficient information transfer,OUTCOME,POSITIVELY IMPACTS
+135,psilocybin,DRUG,allowing communication between different regions,OUTCOME,POSITIVELY IMPACTS
+146,psilocybin,DRUG,“overstable” state,SUBJECTIVE,POSITIVELY IMPACTS
+147,psilocybin,DRUG,subjective well-being,OUTCOME,POSITIVELY IMPACTS
+148,psilocybin,DRUG,trait openness,OUTCOME,POSITIVELY IMPACTS
+150,psilocybin,DRUG,terminal cancer patients,HEALTH,POSITIVELY IMPACTS
+151,psilocybin,DRUG,decreased CBF in the hypothalamus,OUTCOME,POSITIVELY IMPACTS
+156,psychedelics,DRUG,terminal cancer patients,HEALTH,POSITIVELY IMPACTS
+157,psychedelics,DRUG,decreased CBF in the hypothalamus,OUTCOME,POSITIVELY IMPACTS
+158,psychedelics,DRUG,cluster headaches,HEALTH,POSITIVELY IMPACTS
+159,Increased hypothalamic CBF,OUTCOME,cluster headaches,HEALTH,POSITIVELY IMPACTS
+160,psychedelic state,SUBJECTIVE,cluster headaches,HEALTH,POSITIVELY IMPACTS
+163,psilocybin,DRUG,"rapid, robust, and sustained clinical benefits",OUTCOME,POSITIVELY IMPACTS
+166,psilocybin,DRUG,clinical benefits,OUTCOME,POSITIVELY IMPACTS
+167,psilocybin,DRUG,cancer-related anxiety,HEALTH,POSITIVELY IMPACTS
+181,psilocybin,DRUG,anti-depressant effects,OUTCOME,POSITIVELY IMPACTS
+185,psilocybin,DRUG,clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+189,psilocybin,DRUG,rapid anti-depressant and anxiolytic clinical benefits,OUTCOME,POSITIVELY IMPACTS
+197,psilocybin,DRUG,anti-depressant response rates,OUTCOME,POSITIVELY IMPACTS
+201,Psilocybin,DRUG,rapid anti-depressant and anxiolytic clinical benefits,OUTCOME,POSITIVELY IMPACTS
+202,Psilocybin,DRUG,clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+203,Psilocybin,DRUG,anti-depressant response rates,OUTCOME,POSITIVELY IMPACTS
+204,Psilocybin,DRUG,cancer-related depression,HEALTH,POSITIVELY IMPACTS
+205,Psilocybin,DRUG,anti-depressants,DRUG,POSITIVELY IMPACTS
+206,Psilocybin,DRUG,cancer-related demoralization,OUTCOME,POSITIVELY IMPACTS
+207,psilocybin,DRUG,decreased quality of life,OUTCOME,POSITIVELY IMPACTS
+209,psilocybin,DRUG,improved attitudes and adaptations to death,OUTCOME,POSITIVELY IMPACTS
+210,psilocybin,DRUG,highly meaningful and spiritual,OUTCOME,POSITIVELY IMPACTS
+211,Psilocybin,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+212,Psilocybin,DRUG,improved attitudes and adaptations to death,OUTCOME,POSITIVELY IMPACTS
+213,Psilocybin,DRUG,highly meaningful and spiritual,OUTCOME,POSITIVELY IMPACTS
+214,psilocybin,DRUG,increased rates of mental illness,OUTCOME,POSITIVELY IMPACTS
+216,serotoninergic psychedelic,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+217,ayahuasca,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+218,ayahuasca,DRUG,rapid and sustained anti-depressant effects,OUTCOME,POSITIVELY IMPACTS
+219,ayahuasca,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+220,ayahuasca,DRUG,suicidality,HEALTH,POSITIVELY IMPACTS
+221,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,depression,HEALTH,POSITIVELY IMPACTS
+222,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,suicidality,HEALTH,POSITIVELY IMPACTS
+223,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+224,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,tricyclic anti-depressants),ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+225,ketamine,DRUG,anti-depressant mechanisms of action,OUTCOME,POSITIVELY IMPACTS
+226,ketamine,DRUG,anti-depressant treatment,OUTCOME,POSITIVELY IMPACTS
+228,ketamine,DRUG,decreased connectivity,OUTCOME,POSITIVELY IMPACTS
+232,mystical-type experiences,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+233,mystical-type experiences,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+234,subjective mystical experience,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+235,subjective mystical experience,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+236,mystical experience,SUBJECTIVE,cancer patients,HEALTH,POSITIVELY IMPACTS
+237,mystical experience,SUBJECTIVE,clinical benefit,OUTCOME,POSITIVELY IMPACTS
+238,mystical experience,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+239,mystical experience,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+240,mystical experience,SUBJECTIVE,terminal cancer,HEALTH,POSITIVELY IMPACTS
+241,mystical experience,SUBJECTIVE,improved clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+242,psilocybin,DRUG,clinical benefit,OUTCOME,POSITIVELY IMPACTS
+245,psilocybin,DRUG,terminal cancer,HEALTH,POSITIVELY IMPACTS
+246,psilocybin,DRUG,tobacco addiction,HEALTH,POSITIVELY IMPACTS
+247,psilocybin,DRUG,alcoholism,HEALTH,POSITIVELY IMPACTS
+248,psilocybin,DRUG,improved clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+249,psilocybin,DRUG,psycho-spiritual mechanism of action,OUTCOME,POSITIVELY IMPACTS
+250,psilocybin,DRUG,mystical state of consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+255,psychedelic,DRUG,self,SUBJECTIVE,POSITIVELY IMPACTS
+256,Psychedelics,DRUG,self,SUBJECTIVE,POSITIVELY IMPACTS
+257,personal conflicts,OUTCOME,ego,SUBJECTIVE,POSITIVELY IMPACTS
+258,personal conflicts,OUTCOME,self,SUBJECTIVE,POSITIVELY IMPACTS
+259,profound existential or “peak” experiences,OUTCOME,self,SUBJECTIVE,POSITIVELY IMPACTS
+260,lasting positive impact on behavior and outlook,OUTCOME,self,SUBJECTIVE,POSITIVELY IMPACTS
+261,nature,SUBJECTIVE,ego,SUBJECTIVE,POSITIVELY IMPACTS
+262,nature,SUBJECTIVE,self,SUBJECTIVE,POSITIVELY IMPACTS
+263,psychedelics,DRUG,self,SUBJECTIVE,POSITIVELY IMPACTS
+264,disintegration,OUTCOME,self,SUBJECTIVE,POSITIVELY IMPACTS
+266,psychoanalysis,NEURAL,considerable explanatory value,OUTCOME,POSITIVELY IMPACTS
+267,AYA,DRUG,antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+268,AYA,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+269,AYA,DRUG,therapeutic action,OUTCOME,POSITIVELY IMPACTS
+272,AYA,DRUG,faster reductions in depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+274,ketamine,DRUG,antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+277,ketamine,DRUG,brain-derived neurotrophic factor,NEURAL,POSITIVELY IMPACTS
+278,THH,DRUG,brain-derived neurotrophic factor,NEURAL,POSITIVELY IMPACTS
+279,THH,DRUG,systems - MAO,NEURAL,POSITIVELY IMPACTS
+280,THH,DRUG,elevated levels of brain serotonin,OUTCOME,POSITIVELY IMPACTS
+281,THH,DRUG,antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+282,AYA,DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+285,AYA,DRUG,experience as pleasant despite the occurrence of vomiting,OUTCOME,POSITIVELY IMPACTS
+290,purgative effects,OUTCOME,cleansing,OUTCOME,POSITIVELY IMPACTS
+294,AYA,DRUG,antidepressive potentials,OUTCOME,POSITIVELY IMPACTS
+295,AYA,DRUG,faster therapeutic actions,OUTCOME,POSITIVELY IMPACTS
+296,AYA,DRUG,making antidepressive treatment more effective,OUTCOME,POSITIVELY IMPACTS
+297,psychedelics,DRUG,plasticity related processes,OUTCOME,POSITIVELY IMPACTS
+298,compounds,DRUG,MDMA,DRUG,POSITIVELY IMPACTS
+299,compounds,DRUG,medicinal value,OUTCOME,POSITIVELY IMPACTS
+300,psychedelic,DRUG,enhancing plasticity and adaptability,OUTCOME,POSITIVELY IMPACTS
+301,psychedelics,DRUG,self-consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+303,psychedelics,DRUG,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+304,psilocybe,DRUG,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+305,brain serotonin,NEURAL,resilience,OUTCOME,POSITIVELY IMPACTS
+306,serotonin,NEURAL,engagement of 5-HT receptor subtypes,NEURAL,POSITIVELY IMPACTS
+307,serotonin,NEURAL,mood,OUTCOME,POSITIVELY IMPACTS
+308,serotonergic psychedelics,DRUG,changes in mood,OUTCOME,POSITIVELY IMPACTS
+309,serotonergic psychedelics,DRUG,brain function,NEURAL,POSITIVELY IMPACTS
+310,drugs,DRUG,changes in mood,OUTCOME,POSITIVELY IMPACTS
+311,drugs,DRUG,brain function,NEURAL,POSITIVELY IMPACTS
+312,psychedelics,DRUG,changes in mood,OUTCOME,POSITIVELY IMPACTS
+313,psychedelics,DRUG,brain function,NEURAL,POSITIVELY IMPACTS
+315,psychedelics,DRUG,transiently increasing the size of dendritic spines on cortical neurons,OUTCOME,POSITIVELY IMPACTS
+316,DOI,DRUG,cell line of neuronal lineage,NEURAL,POSITIVELY IMPACTS
+317,psychedelics,DRUG,cell line of neuronal lineage,NEURAL,POSITIVELY IMPACTS
+318,ketamine,DRUG,tryptamine,DRUG,POSITIVELY IMPACTS
+319,ketamine,DRUG,GLYX-13,NEURAL,POSITIVELY IMPACTS
+320,LSD,DRUG,invertebrate,DRUG,POSITIVELY IMPACTS
+321,psychedelics,DRUG,invertebrate,DRUG,POSITIVELY IMPACTS
+322,psychedelics,DRUG,brain,NEURAL,POSITIVELY IMPACTS
+323,psychedelics,DRUG,promote changes in the density of dendritic spines,OUTCOME,POSITIVELY IMPACTS
+324,psychedelics,DRUG,spontaneous EPSCs,NEURAL,POSITIVELY IMPACTS
+326,compounds,DRUG,spontaneous EPSCs,NEURAL,POSITIVELY IMPACTS
+328,psychedelics,DRUG,profound perceptual disturbances,OUTCOME,POSITIVELY IMPACTS
+329,compounds,DRUG,profound perceptual disturbances,OUTCOME,POSITIVELY IMPACTS
+330,compounds,DRUG,promoting plasticity,OUTCOME,POSITIVELY IMPACTS
+331,compounds,DRUG,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+332,TrkB,NEURAL,promoting plasticity,OUTCOME,POSITIVELY IMPACTS
+333,TrkB,NEURAL,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+335,psychedelics,DRUG,non-hallucinogenic analogs,DRUG,POSITIVELY IMPACTS
+336,psychedelics,DRUG,promoting plasticity,OUTCOME,POSITIVELY IMPACTS
+337,psychedelics,DRUG,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+338,psychedelics,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+345,non-hallucinogenic analogs,DRUG,promoting plasticity,OUTCOME,POSITIVELY IMPACTS
+346,non-hallucinogenic analogs,DRUG,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+351,psychedelics,DRUG,promoting the growth of both neurites and dendritic spines,OUTCOME,POSITIVELY IMPACTS
+357,ketamine,DRUG,promoting the growth of both neurites and dendritic spines,OUTCOME,POSITIVELY IMPACTS
+360,efficacy,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+361,efficacy,OUTCOME,anxiety,HEALTH,POSITIVELY IMPACTS
+362,psychedelic,DRUG,cost-effectiveness,OUTCOME,POSITIVELY IMPACTS
+363,psilocybin,DRUG,therapeutic actions,OUTCOME,POSITIVELY IMPACTS
+364,SSRIs,ANTIDEPRESSANT_DRUG,therapeutic actions,OUTCOME,POSITIVELY IMPACTS
+365,ayahuasca,DRUG,rapid and sustained antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+366,ayahuasca,DRUG,subgenual area,NEURAL,POSITIVELY IMPACTS
+367,ayahuasca,DRUG,brain,NEURAL,POSITIVELY IMPACTS
+368,ayahuasca,DRUG,drug effects,OUTCOME,POSITIVELY IMPACTS
+369,ayahuasca,DRUG,depressed mood,HEALTH,POSITIVELY IMPACTS
+371,ayahuasca,DRUG,feelings of guilt,OUTCOME,POSITIVELY IMPACTS
+376,ayahuasca,DRUG,emotional withdrawal,OUTCOME,POSITIVELY IMPACTS
+377,ayahuasca,DRUG,bipolar disorder,HEALTH,POSITIVELY IMPACTS
+379,ayahuasca,DRUG,antidepressive effects.13–17,OUTCOME,POSITIVELY IMPACTS
+383,LSD,DRUG,antidepressive effects.13–17,OUTCOME,POSITIVELY IMPACTS
+384,LSD,DRUG,ayahuasca25,DRUG,POSITIVELY IMPACTS
+385,ayahuasca,DRUG,psychoactive effects,OUTCOME,POSITIVELY IMPACTS
+386,ketamine,DRUG,antidepressant drug,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+389,ketamine,DRUG,immediate effects on many behavioral tests,OUTCOME,POSITIVELY IMPACTS
+397,ketamine,DRUG,rapid and sustained molecular alterations,OUTCOME,POSITIVELY IMPACTS
+398,BCl,DRUG,rapid and sustained molecular alterations,OUTCOME,POSITIVELY IMPACTS
+399,ketamine,DRUG,neuronal survival,NEURAL,POSITIVELY IMPACTS
+402,TRD,HEALTH,neuronal survival,NEURAL,POSITIVELY IMPACTS
+403,TRD,HEALTH,mTOR,NEURAL,POSITIVELY IMPACTS
+404,TRD,HEALTH,synaptic plasticity,NEURAL,POSITIVELY IMPACTS
+406,psilocybin,DRUG,hallucinogen,DRUG,POSITIVELY IMPACTS
+408,psilocybin,DRUG,less positive clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+409,psilocybin,DRUG,long-term positive clinical outcomes,OUTCOME,POSITIVELY IMPACTS
+410,catharsis,DRUG,emotional insight,OUTCOME,POSITIVELY IMPACTS
+411,catharsis,DRUG,closure,OUTCOME,POSITIVELY IMPACTS
+417,mystical-type experience,SUBJECTIVE,brain systems,NEURAL,POSITIVELY IMPACTS
+418,psychedelic,DRUG,post-acute brain effects,OUTCOME,POSITIVELY IMPACTS
+419,psychedelic,DRUG,"modular disintegration14,15,28",OUTCOME,POSITIVELY IMPACTS
+420,psychedelic,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+421,psychedelic,DRUG,decreased CBF,OUTCOME,POSITIVELY IMPACTS
+422,LSD14,DRUG,decreased CBF,OUTCOME,POSITIVELY IMPACTS
+423,LSD14,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+424,LSD14,DRUG,depressed mood,HEALTH,POSITIVELY IMPACTS
+425,sgACC,NEURAL,depressed mood,HEALTH,POSITIVELY IMPACTS
+426,ECT,ANTIDEPRESSANT_DRUG,depression,HEALTH,POSITIVELY IMPACTS
+427,amygdala45,NEURAL,amygdala,NEURAL,POSITIVELY IMPACTS
+428,increased CBF,OUTCOME,metabolism in,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+429,increased CBF,OUTCOME,"mood disorders25,43,44",HEALTH,POSITIVELY IMPACTS
+430,increased CBF,OUTCOME,amygdala,NEURAL,POSITIVELY IMPACTS
+431,increased CBF,OUTCOME,increase in CBF,OUTCOME,POSITIVELY IMPACTS
+432,increased CBF,OUTCOME,decreased CBF,OUTCOME,POSITIVELY IMPACTS
+433,increased CBF,OUTCOME,increases in brain absolute CBF30,OUTCOME,POSITIVELY IMPACTS
+434,increased CBF,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+435,LSD15,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+436,increased glucose metabolism,OUTCOME,amygdala,NEURAL,POSITIVELY IMPACTS
+437,citalopram,ANTIDEPRESSANT_DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+438,psilocybin,DRUG,neuropsychiatric disorders,HEALTH,POSITIVELY IMPACTS
+439,psilocybin,DRUG,biases emotional processing,OUTCOME,POSITIVELY IMPACTS
+440,ketanserin,ANTIDEPRESSANT_DRUG,biases emotional processing,OUTCOME,POSITIVELY IMPACTS
+441,ketanserin,ANTIDEPRESSANT_DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+442,ketanserin,ANTIDEPRESSANT_DRUG,mood effects,OUTCOME,POSITIVELY IMPACTS
+445,psilocybin,DRUG,mood effects,OUTCOME,POSITIVELY IMPACTS
+446,Psilocybin,DRUG,increase in the positive affect but not negative affect,OUTCOME,POSITIVELY IMPACTS
+448,Psilocybin,DRUG,mood effects,OUTCOME,POSITIVELY IMPACTS
+449,Psilocybin,DRUG,tryptophan depletion,NEURAL,POSITIVELY IMPACTS
+452,ketanserin,DRUG,tryptophan depletion,NEURAL,POSITIVELY IMPACTS
+453,ketanserin,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+454,ketanserin,DRUG,mood-enhancing effects,OUTCOME,POSITIVELY IMPACTS
+458,ketanserin,DRUG,5-HT2A antagonist,NEURAL,POSITIVELY IMPACTS
+461,ketanserin,DRUG,5-HT2A,NEURAL,POSITIVELY IMPACTS
+462,ketanserin,DRUG,5-HT2C receptors,NEURAL,POSITIVELY IMPACTS
+463,ketanserin,DRUG,Mental Health,HEALTH,POSITIVELY IMPACTS
+464,ketanserin,DRUG,serotonin 2B/5-HT2C agonist,NEURAL,POSITIVELY IMPACTS
+472,psilocybin,DRUG,increase in reaction times to negative and neutral,OUTCOME,POSITIVELY IMPACTS
+473,psilocybin,DRUG,decreased reaction times,OUTCOME,POSITIVELY IMPACTS
+474,psilocybin,DRUG,event-related potentials,OUTCOME,POSITIVELY IMPACTS
+475,psilocybin,DRUG,word valence,SUBJECTIVE,POSITIVELY IMPACTS
+476,psilocybin,DRUG,attention,SUBJECTIVE,POSITIVELY IMPACTS
+477,psilocybin,DRUG,enhanced P3 component,OUTCOME,POSITIVELY IMPACTS
+480,ketanserin,DRUG,event-related potentials,OUTCOME,POSITIVELY IMPACTS
+481,ketanserin,DRUG,word valence,SUBJECTIVE,POSITIVELY IMPACTS
+482,ketanserin,DRUG,attention,SUBJECTIVE,POSITIVELY IMPACTS
+483,ketanserin,DRUG,enhanced P3 component,OUTCOME,POSITIVELY IMPACTS
+484,ketanserin,DRUG,decreased the P300 component,OUTCOME,POSITIVELY IMPACTS
+488,psilocybin,DRUG,N2,NEURAL,POSITIVELY IMPACTS
+490,psilocybin,DRUG,decreased the P300 component,OUTCOME,POSITIVELY IMPACTS
+491,psilocybin,DRUG,valence-dependent P300 decrease,OUTCOME,POSITIVELY IMPACTS
+492,psilocybin,DRUG,attentional performance,OUTCOME,POSITIVELY IMPACTS
+493,psilocybin,DRUG,attenuate the allocation of attentional resources to neutral and negative stimuli,OUTCOME,POSITIVELY IMPACTS
+504,psilocybin,DRUG,sustained adaptations,OUTCOME,POSITIVELY IMPACTS
+505,psilocybin,DRUG,depressed subjects,HEALTH,POSITIVELY IMPACTS
+506,psilocybin,DRUG,increased P300 component,OUTCOME,POSITIVELY IMPACTS
+507,psilocybin,DRUG,shift dysfunctional emotional biases,OUTCOME,POSITIVELY IMPACTS
+510,psilocybin,DRUG,emotional biases,OUTCOME,POSITIVELY IMPACTS
+511,psilocybin,DRUG,negative emotional biases,OUTCOME,POSITIVELY IMPACTS
+513,psilocybin,DRUG,negative mood states,SUBJECTIVE,POSITIVELY IMPACTS
+514,psilocybin,DRUG,dysfunctional emotional biases,OUTCOME,POSITIVELY IMPACTS
+515,psilocybin,DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+517,ketamine,DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+519,ayahuasca,DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+520,ayahuasca,DRUG,mood disorders,HEALTH,POSITIVELY IMPACTS
+522,ayahuasca,DRUG,depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+523,ayahuasca,DRUG,enhanced mindfulness-related capacities,OUTCOME,POSITIVELY IMPACTS
+528,ayahuasca,DRUG,Brain circuits,NEURAL,POSITIVELY IMPACTS
+530,ayahuasca,DRUG,brain regions,NEURAL,POSITIVELY IMPACTS
+531,ayahuasca,DRUG,left subgenual area,NEURAL,POSITIVELY IMPACTS
+535,ayahuasca,DRUG,meditation practices,OUTCOME,POSITIVELY IMPACTS
+542,psychedelic,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+543,psychedelic,DRUG,depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+544,psychedelic,DRUG,enhanced mindfulness-related capacities,OUTCOME,POSITIVELY IMPACTS
+546,psychedelics,DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+547,psychedelics,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+548,psychedelics,DRUG,double blindness,OUTCOME,POSITIVELY IMPACTS
+549,psychedelics,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+550,ayahuasca,DRUG,double blindness,OUTCOME,POSITIVELY IMPACTS
+553,ayahuasca,DRUG,alcohol dependence,HEALTH,POSITIVELY IMPACTS
+554,psychedelics,DRUG,alcohol dependence,HEALTH,POSITIVELY IMPACTS
+556,LSD,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+557,psilocybin,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+559,ayahuasca,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+560,psilocybin,DRUG,therapeutic potentials,OUTCOME,POSITIVELY IMPACTS
+561,LSD,DRUG,therapeutic potentials,OUTCOME,POSITIVELY IMPACTS
+562,DMT,DRUG,therapeutic potentials,OUTCOME,POSITIVELY IMPACTS
+565,LSD,DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+566,serotonin 5-HT1A/2A/2C receptors,NEURAL,therapeutic potentials,OUTCOME,POSITIVELY IMPACTS
+567,5-HT1A/2A/2C receptor,NEURAL,depression,HEALTH,POSITIVELY IMPACTS
+571,psilocybin,DRUG,hippocampus,NEURAL,POSITIVELY IMPACTS
+575,DMT,DRUG,"chemokine (Mcp-1, Cx3cl1) genes",NEURAL,POSITIVELY IMPACTS
+576,DMT,DRUG,Th1/Th17 responses,NEURAL,POSITIVELY IMPACTS
+577,THH,DRUG,Th1/Th17 responses,NEURAL,POSITIVELY IMPACTS
+578,harmine,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+579,harmine,DRUG,antioxidant and neuroprotective effects,OUTCOME,POSITIVELY IMPACTS
+580,psilocybin,DRUG,antiaddictive potentials,OUTCOME,POSITIVELY IMPACTS
+582,compounds,DRUG,intensification of the self-reference process of rumination,OUTCOME,POSITIVELY IMPACTS
+585,ayahuasca,DRUG,drug dependence,OUTCOME,POSITIVELY IMPACTS
+587,psilocybin,DRUG,mood disorders,HEALTH,POSITIVELY IMPACTS
+588,psilocybin,DRUG,drug dependence,OUTCOME,POSITIVELY IMPACTS
+589,altered state of consciousness,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+590,altered state of consciousness,SUBJECTIVE,mood disorders,HEALTH,POSITIVELY IMPACTS
+591,altered state of consciousness,SUBJECTIVE,drug dependence,OUTCOME,POSITIVELY IMPACTS
+592,classical hallucinogens,DRUG,mood disorders,HEALTH,POSITIVELY IMPACTS
+593,psilocybin,DRUG,induces highly meaningful and spiritually significant experiences,OUTCOME,POSITIVELY IMPACTS
+595,psilocybin,DRUG,smoking cessation,OUTCOME,POSITIVELY IMPACTS
+599,LSD,DRUG,tobacco dependence,OUTCOME,POSITIVELY IMPACTS
+600,LSD,DRUG,spiritual significance,OUTCOME,POSITIVELY IMPACTS
+601,LSD,DRUG,impact on well-being,OUTCOME,POSITIVELY IMPACTS
+602,LSD,DRUG,smoking cessation,OUTCOME,POSITIVELY IMPACTS
+603,LSD,DRUG,"long-term beneficial changes in perspectives, attitudes, values, and quality of life",OUTCOME,POSITIVELY IMPACTS
+604,hallucinogens,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+605,hallucinogens,DRUG,lasting beneficial changes,OUTCOME,POSITIVELY IMPACTS
+609,LSD,DRUG,dying cancer patients.2,HEALTH,POSITIVELY IMPACTS
+610,LSD,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+611,LSD,DRUG,reduced anxiety,OUTCOME,POSITIVELY IMPACTS
+612,LSD,DRUG,fear of death,OUTCOME,POSITIVELY IMPACTS
+613,LSD,DRUG,advanced-stage cancer,HEALTH,POSITIVELY IMPACTS
+614,LSD,DRUG,advanced-stage cancer cancer,HEALTH,POSITIVELY IMPACTS
+616,psilocybin,DRUG,reduced anxiety,OUTCOME,POSITIVELY IMPACTS
+617,psilocybin,DRUG,fear of death,OUTCOME,POSITIVELY IMPACTS
+618,Psilocybin,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+619,Psilocybin,DRUG,reduced anxiety,OUTCOME,POSITIVELY IMPACTS
+621,Psilocybe,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+625,psilocybin,DRUG,cancer-related psychosocial distress,HEALTH,POSITIVELY IMPACTS
+627,psilocybin,DRUG,Anxiety,HEALTH,POSITIVELY IMPACTS
+628,mystical experience,SUBJECTIVE,mood,OUTCOME,POSITIVELY IMPACTS
+631,psilocybin,DRUG,cancer diagnosis,HEALTH,POSITIVELY IMPACTS
+632,psilocybin,DRUG,improved attitudes toward disease progression and death,OUTCOME,POSITIVELY IMPACTS
+633,psilocybin,DRUG,improved quality of life,OUTCOME,POSITIVELY IMPACTS
+634,LSD,DRUG,cancer,HEALTH,POSITIVELY IMPACTS
+635,LSD,DRUG,anxiolytic and antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+636,LSD,DRUG,improved attitudes toward disease progression and death,OUTCOME,POSITIVELY IMPACTS
+637,LSD,DRUG,improved quality of life,OUTCOME,POSITIVELY IMPACTS
+643,subjective experiences,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+646,LSD,DRUG,marked improvement in depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+649,psilocybin,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+653,psilocybin,DRUG,normalize limbic hyperactivity,OUTCOME,POSITIVELY IMPACTS
+654,psilocybin,DRUG,depressed mood state,HEALTH,POSITIVELY IMPACTS
+670,psilocybin,DRUG,reduction of amygdala reactivity,OUTCOME,POSITIVELY IMPACTS
+672,psilocybin,DRUG,emotion processing,OUTCOME,POSITIVELY IMPACTS
+675,SSRIs,ANTIDEPRESSANT_DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+676,serotonin transporters,NEURAL,amygdala,NEURAL,POSITIVELY IMPACTS
+677,psilocybin,DRUG,decreased activation in the visual cortex,OUTCOME,POSITIVELY IMPACTS
+678,psilocybin,DRUG,decrease of activation in the visual cortex,OUTCOME,POSITIVELY IMPACTS
+680,psilocybin,DRUG,processing of threat-related signals,OUTCOME,POSITIVELY IMPACTS
+681,psilocybin,DRUG,attenuation of amygdala activation,OUTCOME,POSITIVELY IMPACTS
+685,psilocybin,DRUG,emotion,SUBJECTIVE,POSITIVELY IMPACTS
+688,ketanserin,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+692,psilocybin,DRUG,mood state,OUTCOME,POSITIVELY IMPACTS
+693,Psilocybin,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+695,Psilocybin,DRUG,increased positive mood state,OUTCOME,POSITIVELY IMPACTS
+696,Psilocybin,DRUG,effect on negative mood state,OUTCOME,POSITIVELY IMPACTS
+697,Psilocybin,DRUG,psychotropic effects,OUTCOME,POSITIVELY IMPACTS
+698,Psilocybin,DRUG,mood state,OUTCOME,POSITIVELY IMPACTS
+706,ketanserin,ANTIDEPRESSANT_DRUG,mood state,SUBJECTIVE,POSITIVELY IMPACTS
+718,psilocybin,DRUG,5-HT2C blockade,NEURAL,POSITIVELY IMPACTS
+738,psilocybin,DRUG,feeling some discernable benefits,OUTCOME,POSITIVELY IMPACTS
+739,Psychedelics,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+740,Psychedelics,DRUG,drug experiences,OUTCOME,POSITIVELY IMPACTS
+741,serotonin receptors,NEURAL,drug experiences,OUTCOME,POSITIVELY IMPACTS
+743,psychedelic,DRUG,therapeutic outcomes,OUTCOME,POSITIVELY IMPACTS
+744,psychedelic,DRUG,psychological flexibility,OUTCOME,POSITIVELY IMPACTS
+747,peyote,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+748,LSD,DRUG,more understanding and acceptance of they and,OUTCOME,POSITIVELY IMPACTS
+750,LSD,DRUG,life satisfaction,OUTCOME,POSITIVELY IMPACTS
+752,psilocybin,DRUG,improved well-being,OUTCOME,POSITIVELY IMPACTS
+753,psilocybin,DRUG,life satisfaction,OUTCOME,POSITIVELY IMPACTS
+754,psychedelics,DRUG,life satisfaction,OUTCOME,POSITIVELY IMPACTS
+755,psychedelics,DRUG,mescaline,DRUG,POSITIVELY IMPACTS
+757,psychedelics,DRUG,suicide attempt,OUTCOME,POSITIVELY IMPACTS
+761,peyote,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+762,peyote,DRUG,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+763,peyote,DRUG,suicide attempts,OUTCOME,POSITIVELY IMPACTS
+771,LSD,DRUG,suicide attempts,OUTCOME,POSITIVELY IMPACTS
+772,psychedelics,DRUG,adverse events,OUTCOME,POSITIVELY IMPACTS
+773,psychedelics,DRUG,acceptable safety for clinical use,OUTCOME,POSITIVELY IMPACTS
+774,psychedelics,DRUG,death,HEALTH,POSITIVELY IMPACTS
+775,psychedelics,DRUG,cultural biases,OUTCOME,POSITIVELY IMPACTS
+776,LSD,DRUG,death,HEALTH,POSITIVELY IMPACTS
+777,LSD,DRUG,cultural biases,OUTCOME,POSITIVELY IMPACTS
+778,LSD,DRUG,beatnik,DRUG,POSITIVELY IMPACTS
+780,LSD,DRUG,…,DRUG,POSITIVELY IMPACTS
+782,psilocybin,DRUG,"minimal adverse event profile,22,23",OUTCOME,POSITIVELY IMPACTS
+783,psilocybin,DRUG,therapeutic advantages,OUTCOME,POSITIVELY IMPACTS
+784,psilocybin,DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+787,psilocybin,DRUG,alcohol use disorder49,HEALTH,POSITIVELY IMPACTS
+788,psilocybin,DRUG,personally meaningful,OUTCOME,POSITIVELY IMPACTS
+789,psilocybin,DRUG,insightful experiences,OUTCOME,POSITIVELY IMPACTS
+790,psilocybin,DRUG,"large, rapid, and sustained antidepressant effects",OUTCOME,POSITIVELY IMPACTS
+793,psilocybin,DRUG,problematic effects,OUTCOME,POSITIVELY IMPACTS
+794,psilocybin,DRUG,emergence of psychosis,OUTCOME,POSITIVELY IMPACTS
+797,LSD,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+798,ayahuasca,DRUG,mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+799,ayahuasca,DRUG,increase in several mindfulness-related parameters,OUTCOME,POSITIVELY IMPACTS
+800,ayahuasca,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+819,ayahuasca,DRUG,acceptance,OUTCOME,POSITIVELY IMPACTS
+820,ayahuasca,DRUG,increased self-acceptance,OUTCOME,POSITIVELY IMPACTS
+828,ayahuasca,DRUG,advanced-stage cancer patients,HEALTH,POSITIVELY IMPACTS
+829,psychedelic 5-HT2A agonists,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+831,psilocybin,DRUG,depressive symptoms,HEALTH,POSITIVELY IMPACTS
+836,ayahuasca,DRUG,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+838,default mode network deactivation,NEURAL,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+839,ayahuasca,DRUG,transpersonal feelings,SUBJECTIVE,POSITIVELY IMPACTS
+841,psychedelics,DRUG,transpersonal feelings,SUBJECTIVE,POSITIVELY IMPACTS
+842,psychedelics,DRUG,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+843,psilocybin,DRUG,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+845,ayahuasca,DRUG,increases in mindfulness-related capacities,OUTCOME,POSITIVELY IMPACTS
+854,psychedelics,DRUG,decreased brain entropy,OUTCOME,POSITIVELY IMPACTS
+855,psychedelics,DRUG,entropy,OUTCOME,POSITIVELY IMPACTS
+856,psychedelics,DRUG,complexity,OUTCOME,POSITIVELY IMPACTS
+857,psychedelics,DRUG,stimulant,DRUG,POSITIVELY IMPACTS
+858,psychedelics,DRUG,subjective uncertainty,SUBJECTIVE,POSITIVELY IMPACTS
+859,altered states of consciousness,SUBJECTIVE,subjective uncertainty,SUBJECTIVE,POSITIVELY IMPACTS
+860,altered states of consciousness,SUBJECTIVE,sense of uncertainty,SUBJECTIVE,POSITIVELY IMPACTS
+861,psychedelics,DRUG,sense of uncertainty,SUBJECTIVE,POSITIVELY IMPACTS
+862,serotonergic psychedelics,DRUG,sense of uncertainty,SUBJECTIVE,POSITIVELY IMPACTS
+863,psychedelics,DRUG,compressibility of signals,OUTCOME,POSITIVELY IMPACTS
+864,psychedelics,DRUG,brain entropy,NEURAL,POSITIVELY IMPACTS
+865,psychedelics,DRUG,neurobiology of consciousness,NEURAL,POSITIVELY IMPACTS
+866,psychedelic,DRUG,neurobiology of consciousness,NEURAL,POSITIVELY IMPACTS
+869,consciousness,SUBJECTIVE,integrated-information theory,SUBJECTIVE,POSITIVELY IMPACTS
+870,consciousness,SUBJECTIVE,brain entropy,NEURAL,POSITIVELY IMPACTS
+871,consciousness,SUBJECTIVE,complexity,OUTCOME,POSITIVELY IMPACTS
+872,consciousness,SUBJECTIVE,brain,NEURAL,POSITIVELY IMPACTS
+875,consciousness,SUBJECTIVE,entropy,OUTCOME,POSITIVELY IMPACTS
+876,integration,SUBJECTIVE,entropy,OUTCOME,POSITIVELY IMPACTS
+877,psilocybin,DRUG,attract emotive and often polarised opinions,OUTCOME,POSITIVELY IMPACTS
+878,psilocybin,DRUG,depressive disorder,HEALTH,POSITIVELY IMPACTS
+879,psilocybin,DRUG,deliverability and cost-effectiveness,OUTCOME,POSITIVELY IMPACTS
+881,psychedelics,DRUG,deliverability and cost-effectiveness,OUTCOME,POSITIVELY IMPACTS
+882,efficacy,OUTCOME,alcohol dependence,HEALTH,POSITIVELY IMPACTS
+883,ayahuasca,DRUG,transient modified state of awareness,OUTCOME,POSITIVELY IMPACTS
+884,ayahuasca,DRUG,introspection,OUTCOME,POSITIVELY IMPACTS
+885,ayahuasca,DRUG,visions,OUTCOME,POSITIVELY IMPACTS
+886,ayahuasca,DRUG,autobiographic and emotional memories,OUTCOME,POSITIVELY IMPACTS
+887,ayahuasca,DRUG,positive and valuable,OUTCOME,POSITIVELY IMPACTS
+890,ayahuasca,DRUG,receptor,NEURAL,POSITIVELY IMPACTS
+911,SR1,NEURAL,receptor,NEURAL,POSITIVELY IMPACTS
+912,SR1,NEURAL,depression,HEALTH,POSITIVELY IMPACTS
+913,SR1,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+917,serotonin reuptake inhibitor,ANTIDEPRESSANT_DRUG,receptor,NEURAL,POSITIVELY IMPACTS
+918,serotonin reuptake inhibitor,ANTIDEPRESSANT_DRUG,depression,HEALTH,POSITIVELY IMPACTS
+919,serotonin reuptake inhibitor,ANTIDEPRESSANT_DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+922,ayahuasca,DRUG,improvements in mindfulness,OUTCOME,POSITIVELY IMPACTS
+923,ayahuasca,DRUG,empowerment,OUTCOME,POSITIVELY IMPACTS
+924,ayahuasca,DRUG,hopefulness,OUTCOME,POSITIVELY IMPACTS
+925,ayahuasca,DRUG,quality of life-outlook,OUTCOME,POSITIVELY IMPACTS
+926,ayahuasca,DRUG,quality of life-meaning,OUTCOME,POSITIVELY IMPACTS
+933,ayahuasca,DRUG,improvement in alcohol use,OUTCOME,POSITIVELY IMPACTS
+934,ayahuasca,DRUG,cessation of drug use,OUTCOME,POSITIVELY IMPACTS
+939,ayahuasca,DRUG,reductions in associated symptomatology,OUTCOME,POSITIVELY IMPACTS
+941,ayahuasca,DRUG,panic- and hopelessness-related states,OUTCOME,POSITIVELY IMPACTS
+942,ayahuasca,DRUG,Depression,HEALTH,POSITIVELY IMPACTS
+949,LSD,DRUG,elevated brain-wide shared signal,OUTCOME,POSITIVELY IMPACTS
+950,LSD,DRUG,brain-wide hyper-connectivity,NEURAL,POSITIVELY IMPACTS
+951,ayahuasca,DRUG,elevated brain-wide shared signal,OUTCOME,POSITIVELY IMPACTS
+952,ayahuasca,DRUG,hypo-connectivity,OUTCOME,POSITIVELY IMPACTS
+953,ayahuasca,DRUG,brain-wide hyper-connectivity,NEURAL,POSITIVELY IMPACTS
+957,psilocybin,DRUG,hypo-connectivity,OUTCOME,POSITIVELY IMPACTS
+958,psilocybin,DRUG,brain-wide hyper-connectivity,NEURAL,POSITIVELY IMPACTS
+961,LSD,DRUG,hypo-connectivity,OUTCOME,POSITIVELY IMPACTS
+962,LSD,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+964,LSD,DRUG,alterations in amygdala activity and connectivity,OUTCOME,POSITIVELY IMPACTS
+965,LSD,DRUG,beneficial clinical effects,OUTCOME,POSITIVELY IMPACTS
+966,LSD,DRUG,de-coupling in associative networks,OUTCOME,POSITIVELY IMPACTS
+967,LSD,DRUG,systems-level perturbations,NEURAL,POSITIVELY IMPACTS
+968,LSD,DRUG,hyper-and hypo-connectivity,OUTCOME,POSITIVELY IMPACTS
+969,LSD,DRUG,altered state of consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+982,LSD,DRUG,negligible changes,OUTCOME,POSITIVELY IMPACTS
+983,Pla,DRUG,negligible changes,OUTCOME,POSITIVELY IMPACTS
+984,Ketanserin,DRUG,negligible changes,OUTCOME,POSITIVELY IMPACTS
+986,Pla,DRUG,brain-wide dysconnectivity,NEURAL,POSITIVELY IMPACTS
+988,LSD,DRUG,sensory networks,NEURAL,POSITIVELY IMPACTS
+990,LSD,DRUG,brain-wide net effect,NEURAL,POSITIVELY IMPACTS
+992,LSD,DRUG,brain-wide dysconnectivity,NEURAL,POSITIVELY IMPACTS
+993,Ketanserin,DRUG,sensory networks,NEURAL,POSITIVELY IMPACTS
+994,Ketanserin,DRUG,hypo-connectivity,OUTCOME,POSITIVELY IMPACTS
+995,Ketanserin,DRUG,brain-wide net effect,NEURAL,POSITIVELY IMPACTS
+997,Ketanserin,DRUG,brain-wide dysconnectivity,NEURAL,POSITIVELY IMPACTS
+1002,LSD,DRUG,alterations in neural and behavioral effects,OUTCOME,POSITIVELY IMPACTS
+1004,LSD,DRUG,brain-wide integration of sensory networks,NEURAL,POSITIVELY IMPACTS
+1007,LSD,DRUG,neural and behavioral alterations,OUTCOME,POSITIVELY IMPACTS
+1012,LSD,DRUG,cortices,NEURAL,POSITIVELY IMPACTS
+1018,LSD,DRUG,hyper- and hypo-connectivity change scores,OUTCOME,POSITIVELY IMPACTS
+1019,LSD,DRUG,hyper-connectivity,NEURAL,POSITIVELY IMPACTS
+1020,LSD,DRUG,functionally pre-defined networks,NEURAL,POSITIVELY IMPACTS
+1024,LSD,DRUG,bi-directional brain-wide shared signal,OUTCOME,POSITIVELY IMPACTS
+1027,LSD,DRUG,Ket,DRUG,POSITIVELY IMPACTS
+1028,LSD,DRUG,subjective drug effects,OUTCOME,POSITIVELY IMPACTS
+1029,LSD,DRUG,subjectively accessible,OUTCOME,POSITIVELY IMPACTS
+1030,LSD,DRUG,blissful state,SUBJECTIVE,POSITIVELY IMPACTS
+1031,LSD,DRUG,higher subjective effects,OUTCOME,POSITIVELY IMPACTS
+1036,LSD,DRUG,postcentral gyrus,NEURAL,POSITIVELY IMPACTS
+1042,Pla,DRUG,subjectively accessible,OUTCOME,POSITIVELY IMPACTS
+1043,Pla,DRUG,blissful state,SUBJECTIVE,POSITIVELY IMPACTS
+1044,Pla,DRUG,postcentral gyrus,NEURAL,POSITIVELY IMPACTS
+1051,GBC,NEURAL,blissful state,SUBJECTIVE,POSITIVELY IMPACTS
+1053,psychedelic,DRUG,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+1054,LSD,DRUG,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+1055,consciousness,SUBJECTIVE,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+1056,sensorimotor system,NEURAL,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+1058,psychedelic,DRUG,delusions,HEALTH,POSITIVELY IMPACTS
+1059,psychedelic,DRUG,alterations in the sense of self,OUTCOME,POSITIVELY IMPACTS
+1061,LSD,DRUG,delusions,HEALTH,POSITIVELY IMPACTS
+1062,LSD,DRUG,alterations in the sense of self,OUTCOME,POSITIVELY IMPACTS
+1065,LSD,DRUG,neuronal and subjective effects,OUTCOME,POSITIVELY IMPACTS
+1075,LSD,DRUG,HTR2C,NEURAL,POSITIVELY IMPACTS
+1078,ayahuasca,DRUG,creativity,OUTCOME,POSITIVELY IMPACTS
+1083,ayahuasca,DRUG,enhancement of divergent thinking,OUTCOME,POSITIVELY IMPACTS
+1090,ayahuasca,DRUG,mescaline,DRUG,POSITIVELY IMPACTS
+1095,ayahuasca,DRUG,associations and insights,OUTCOME,POSITIVELY IMPACTS
+1097,ayahuasca,DRUG,cognitive flexibility,OUTCOME,POSITIVELY IMPACTS
+1098,ayahuasca,DRUG,enhanced divergent thinking,OUTCOME,POSITIVELY IMPACTS
+1100,ayahuasca,DRUG,placebo state,SUBJECTIVE,POSITIVELY IMPACTS
+1101,psilocybin,DRUG,cognitive flexibility,OUTCOME,POSITIVELY IMPACTS
+1104,psychedelics,DRUG,more novel thoughts,OUTCOME,POSITIVELY IMPACTS
+1117,ayahuasca,DRUG,mindfulness-related capacities were enhanced,OUTCOME,POSITIVELY IMPACTS
+1119,ayahuasca,DRUG,post-traumatic stress disorder,HEALTH,POSITIVELY IMPACTS
+1122,psychedelics,DRUG,therapeutic process,OUTCOME,POSITIVELY IMPACTS
+1123,ayahuasca,DRUG,therapeutic process,OUTCOME,POSITIVELY IMPACTS
+1125,Psilocybin,DRUG,psychological distress,HEALTH,POSITIVELY IMPACTS
+1126,Psilocybin,DRUG,psychiatric conditions,HEALTH,POSITIVELY IMPACTS
+1127,psilocybin,DRUG,single mediating factor,OUTCOME,POSITIVELY IMPACTS
+1129,psilocybin,DRUG,deeply meaningful attachments to important family members and significant others,OUTCOME,POSITIVELY IMPACTS
+1130,psilocybin,DRUG,forgiveness of others,OUTCOME,POSITIVELY IMPACTS
+1131,psilocybin,DRUG,loved ones as spirit guides,OUTCOME,POSITIVELY IMPACTS
+1132,psilocybin,DRUG,narrating one’s experience with loved ones,OUTCOME,POSITIVELY IMPACTS
+1133,psilocybin,DRUG,improved relationships posttreatment,OUTCOME,POSITIVELY IMPACTS
+1146,psilocybin,DRUG,"feelings of relief, wholeness, freedom, and affirmation",OUTCOME,POSITIVELY IMPACTS
+1149,"surrender or “let go,”",OUTCOME,"feelings of relief, wholeness, freedom, and affirmation",OUTCOME,POSITIVELY IMPACTS
+1150,psilocybin,DRUG,experienced profound emotional depths,OUTCOME,POSITIVELY IMPACTS
+1151,psilocybin,DRUG,expanded affective boundaries,OUTCOME,POSITIVELY IMPACTS
+1152,psilocybin,DRUG,visions,OUTCOME,POSITIVELY IMPACTS
+1153,psilocybin,DRUG,deeply coded with layers of meaning,OUTCOME,POSITIVELY IMPACTS
+1154,psilocybin,DRUG,lasting impacts to study participants quality of life,OUTCOME,POSITIVELY IMPACTS
+1155,psilocybin,DRUG,life priorities,OUTCOME,POSITIVELY IMPACTS
+1156,psilocybin,DRUG,sense of identity,OUTCOME,POSITIVELY IMPACTS
+1157,psilocybin,DRUG,recovered a sense of what is most important and vital,OUTCOME,POSITIVELY IMPACTS
+1158,psilocybin,DRUG,being present in the moment,OUTCOME,POSITIVELY IMPACTS
+1159,psilocybin,DRUG,kind to other people,OUTCOME,POSITIVELY IMPACTS
+1160,psilocybin,DRUG,feeling “reborn,OUTCOME,POSITIVELY IMPACTS
+1161,psilocybin,DRUG,more expansive,OUTCOME,POSITIVELY IMPACTS
+1162,psilocybin,DRUG,more confident,OUTCOME,POSITIVELY IMPACTS
+1163,psilocybin,DRUG,more connected,OUTCOME,POSITIVELY IMPACTS
+1164,psilocybin,DRUG,more alive,OUTCOME,POSITIVELY IMPACTS
+1165,psilocybin,DRUG,feeling of empowerment,OUTCOME,POSITIVELY IMPACTS
+1170,psilocybin,DRUG,lasting impacts,OUTCOME,POSITIVELY IMPACTS
+1171,psilocybin,DRUG,death,HEALTH,POSITIVELY IMPACTS
+1172,psilocybin,DRUG,spirituality,SUBJECTIVE,POSITIVELY IMPACTS
+1173,psilocybin,DRUG,cancer patients,HEALTH,POSITIVELY IMPACTS
+1174,psilocybin,DRUG,existential and psychological distress,OUTCOME,POSITIVELY IMPACTS
+1176,psilocybin,DRUG,relationally embedded,OUTCOME,POSITIVELY IMPACTS
+1177,psilocybin,DRUG,deeply meaningful,OUTCOME,POSITIVELY IMPACTS
+1178,psilocybin,DRUG,biographically instantiated,OUTCOME,POSITIVELY IMPACTS
+1179,psilocybin,DRUG,lasting impacts to Participants experience of Participants and the world,OUTCOME,POSITIVELY IMPACTS
+1180,psilocybin,DRUG,cancer,HEALTH,POSITIVELY IMPACTS
+1190,psilocybin,DRUG,maximize therapeutic benefit,OUTCOME,POSITIVELY IMPACTS
+1192,psilocybin,DRUG,medical and public health significance,OUTCOME,POSITIVELY IMPACTS
+1193,psilocybin,DRUG,potential therapeutic benefits,OUTCOME,POSITIVELY IMPACTS
+1199,psilocybin,DRUG,science does not support scheduling more restrictive than IV,OUTCOME,POSITIVELY IMPACTS
+1200,psilocybin,DRUG,profound and very long lasting positive changes in mood and well-being,OUTCOME,POSITIVELY IMPACTS
+1201,psilocybin,DRUG,treatment resistant mental and behavioral disorders,HEALTH,POSITIVELY IMPACTS
+1203,psilocybin,DRUG,the need for such research is urgent,OUTCOME,POSITIVELY IMPACTS
+1205,psychedelics,DRUG,profound and very long lasting positive changes in mood and well-being,OUTCOME,POSITIVELY IMPACTS
+1209,LSD,DRUG,neuronal populations,NEURAL,POSITIVELY IMPACTS
+1210,LSD,DRUG,highly interrelated processes,OUTCOME,POSITIVELY IMPACTS
+1211,LSD,DRUG,disruption of established neural connectivity,OUTCOME,POSITIVELY IMPACTS
+1212,LSD,DRUG,emergence of novel functional associations,OUTCOME,POSITIVELY IMPACTS
+1213,psilocybin,DRUG,neuronal populations,NEURAL,POSITIVELY IMPACTS
+1214,psilocybin,DRUG,highly interrelated processes,OUTCOME,POSITIVELY IMPACTS
+1215,psilocybin,DRUG,disruption of established neural connectivity,OUTCOME,POSITIVELY IMPACTS
+1216,psilocybin,DRUG,emergence of novel functional associations,OUTCOME,POSITIVELY IMPACTS
+1228,psychedelic,DRUG,brain regions,NEURAL,POSITIVELY IMPACTS
+1229,psychedelic,DRUG,different transcriptional responses,OUTCOME,POSITIVELY IMPACTS
+1232,compounds,DRUG,brain regions,NEURAL,POSITIVELY IMPACTS
+1234,compounds,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+1235,compounds,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1240,psychedelic drugs,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+1241,psychedelic drugs,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1243,harmine,DRUG,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1244,harmine,DRUG,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1246,THH,DRUG,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1247,THH,DRUG,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1249,harmaline,DRUG,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1250,harmaline,DRUG,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1252,ayahuasca,DRUG,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1253,ayahuasca,DRUG,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1255,SVZ,NEURAL,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1256,SVZ,NEURAL,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1257,SGZ,NEURAL,stimulated the proliferation and migration of progenitor cells,OUTCOME,POSITIVELY IMPACTS
+1258,SGZ,NEURAL,promoted progenitor cells differentiation,OUTCOME,POSITIVELY IMPACTS
+1267,compounds,DRUG,cellular differentiation,OUTCOME,POSITIVELY IMPACTS
+1268,compounds,DRUG,Tuj-1,NEURAL,POSITIVELY IMPACTS
+1269,compounds,DRUG,equally expressed,OUTCOME,POSITIVELY IMPACTS
+1270,compounds,DRUG,Tuj-1 levels,NEURAL,POSITIVELY IMPACTS
+1276,compounds,DRUG,stimulated migration,OUTCOME,POSITIVELY IMPACTS
+1277,compounds,DRUG,promote the three processes involved in full adult neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1279,Lmx1a,NEURAL,promote the three processes involved in full adult neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1280,Lmx1b44,NEURAL,stimulated migration,OUTCOME,POSITIVELY IMPACTS
+1281,Lmx1b44,NEURAL,promote the three processes involved in full adult neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1286,THH,DRUG,promote the three processes involved in full adult neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1288,serotonin depletion,NEURAL,harmol,DRUG,POSITIVELY IMPACTS
+1289,serotonin depletion,NEURAL,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1290,serotonin depletion,NEURAL,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1291,serotonin depletion,NEURAL,hippocampal neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1292,serotonin depletion,NEURAL,human neural progenitor cells,NEURAL,POSITIVELY IMPACTS
+1293,molecules,NEURAL,hippocampal neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1294,molecules,NEURAL,human neural progenitor cells,NEURAL,POSITIVELY IMPACTS
+1295,molecules,NEURAL,endothelial growth,NEURAL,POSITIVELY IMPACTS
+1296,molecules,NEURAL,relevant therapeutic implications,OUTCOME,POSITIVELY IMPACTS
+1297,serotonin reuptake inhibitor fluoxetine,ANTIDEPRESSANT_DRUG,endothelial growth,NEURAL,POSITIVELY IMPACTS
+1298,serotonin reuptake inhibitor fluoxetine,ANTIDEPRESSANT_DRUG,increases neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1299,serotonin reuptake inhibitor fluoxetine,ANTIDEPRESSANT_DRUG,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1300,selective MAO-A inhibitor pirlindole53,ANTIDEPRESSANT_DRUG,increases neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1301,selective MAO-A inhibitor pirlindole53,ANTIDEPRESSANT_DRUG,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1302,SGZ,NEURAL,increases neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1303,SGZ,NEURAL,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1304,fluoxetine,ANTIDEPRESSANT_DRUG,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1307,ayahuasca,DRUG,imipramine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1308,ayahuasca,DRUG,"neuropsychiatric disorders60,61,62",HEALTH,POSITIVELY IMPACTS
+1309,ayahuasca,DRUG,decreases in problematic alcohol,OUTCOME,POSITIVELY IMPACTS
+1310,ayahuasca,DRUG,cocaine and opiate consumption,OUTCOME,POSITIVELY IMPACTS
+1311,ayahuasca,DRUG,anti-addiction properties,OUTCOME,POSITIVELY IMPACTS
+1318,profound psychological experiences,OUTCOME,improves behavioral measures of depression17,OUTCOME,POSITIVELY IMPACTS
+1319,profound psychological experiences,OUTCOME,behavioral improvement,OUTCOME,POSITIVELY IMPACTS
+1324,harmine,DRUG,improves behavioral measures of depression17,OUTCOME,POSITIVELY IMPACTS
+1325,harmine,DRUG,neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1326,harmine,DRUG,behavioral improvement,OUTCOME,POSITIVELY IMPACTS
+1327,MAO inhibitors,ANTIDEPRESSANT_DRUG,brain plasticity,NEURAL,POSITIVELY IMPACTS
+1328,ayahuasca,DRUG,brain plasticity,NEURAL,POSITIVELY IMPACTS
+1329,ayahuasca,DRUG,neurologic disorders,HEALTH,POSITIVELY IMPACTS
+1332,compounds,DRUG,brain plasticity,NEURAL,POSITIVELY IMPACTS
+1333,compounds,DRUG,neurologic disorders,HEALTH,POSITIVELY IMPACTS
+1339,psychedelic,DRUG,stimulation of mood,OUTCOME,POSITIVELY IMPACTS
+1342,psychedelic “,DRUG,mood,SUBJECTIVE,POSITIVELY IMPACTS
+1343,psilocybin,DRUG,enhanced creativity,OUTCOME,POSITIVELY IMPACTS
+1346,psilocybin,DRUG,decrease in cerebral 5-HT levels,OUTCOME,POSITIVELY IMPACTS
+1347,psilocybin,DRUG,underestimation of occupancy,OUTCOME,POSITIVELY IMPACTS
+1350,ayahuasca,DRUG,anxiolytic and antidepressive properties,OUTCOME,POSITIVELY IMPACTS
+1351,ayahuasca,DRUG,reduced psychopathology,OUTCOME,POSITIVELY IMPACTS
+1352,ayahuasca,DRUG,anxiolytic and antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+1356,these compounds,DRUG,anxiolytic and antidepressive properties,OUTCOME,POSITIVELY IMPACTS
+1357,these compounds,DRUG,reduced psychopathology,OUTCOME,POSITIVELY IMPACTS
+1358,these compounds,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+1361,ayahuasca,DRUG,do not exhibit symptoms of psychiatric disorders or neurocognitive problems,OUTCOME,POSITIVELY IMPACTS
+1362,ayahuasca,DRUG,better cognitive function,OUTCOME,POSITIVELY IMPACTS
+1363,ayahuasca,DRUG,increased well-being and spirituality,OUTCOME,POSITIVELY IMPACTS
+1367,ayahuasca,DRUG,"MAO-A inhibitor,3,5",NEURAL,POSITIVELY IMPACTS
+1376,harmaline,DRUG,reduced psychopathology,OUTCOME,POSITIVELY IMPACTS
+1377,harmaline,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+1378,hallucinogens,DRUG,emotional processing,OUTCOME,POSITIVELY IMPACTS
+1383,harmine,DRUG,emotional processing,OUTCOME,POSITIVELY IMPACTS
+1388,THH,DRUG,emotional processing,OUTCOME,POSITIVELY IMPACTS
+1389,THH,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1390,THH,DRUG,depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+1391,THH,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+1392,5-HT1A/2A/2C receptor agonists,NEURAL,emotional processing,OUTCOME,POSITIVELY IMPACTS
+1393,5-HT1A/2A/2C receptor agonists,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+1394,5-HT1A/2A/2C receptor agonists,NEURAL,depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+1395,5-HT1A/2A/2C receptor agonists,NEURAL,mood,OUTCOME,POSITIVELY IMPACTS
+1396,5-HT1A/2A/2C receptor,NEURAL,depressive symptoms,HEALTH,POSITIVELY IMPACTS
+1403,LSD,DRUG,depressive symptoms,HEALTH,POSITIVELY IMPACTS
+1409,OCDs,HEALTH,anxiety,HEALTH,POSITIVELY IMPACTS
+1410,OCDs,HEALTH,depressive symptoms,HEALTH,POSITIVELY IMPACTS
+1411,OCDs,HEALTH,mood,OUTCOME,POSITIVELY IMPACTS
+1412,psilocybin,DRUG,neurosis,HEALTH,POSITIVELY IMPACTS
+1413,psilocybin,DRUG,OCDs,HEALTH,POSITIVELY IMPACTS
+1414,psilocybin,DRUG,anxiolytic effects,OUTCOME,POSITIVELY IMPACTS
+1415,psilocybin-,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1417,psilocybin-,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+1418,psilocybin-,DRUG,cancer,HEALTH,POSITIVELY IMPACTS
+1423,ayahuasca,DRUG,significantly reduced DMN activation.73,OUTCOME,POSITIVELY IMPACTS
+1426,serotonergic hallucinogens,DRUG,significantly reduced DMN activation.73,OUTCOME,POSITIVELY IMPACTS
+1429,PCC,NEURAL,significantly reduced DMN activation.73,OUTCOME,POSITIVELY IMPACTS
+1431,hallucinogens,DRUG,anxiolytic and antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+1433,ayahuasca,DRUG,meditative states,SUBJECTIVE,POSITIVELY IMPACTS
+1438,ayahuasca,DRUG,depressive disorders,HEALTH,POSITIVELY IMPACTS
+1444,ayahuasca,DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+1457,LSD,DRUG,cluster headaches,HEALTH,POSITIVELY IMPACTS
+1462,psilocybin,DRUG,cluster headaches,HEALTH,POSITIVELY IMPACTS
+1467,microdosing,DRUG,decreased depression,OUTCOME,POSITIVELY IMPACTS
+1468,microdosing,DRUG,stress,HEALTH,POSITIVELY IMPACTS
+1469,microdosing,DRUG,immediate boost,OUTCOME,POSITIVELY IMPACTS
+1470,microdosing,DRUG,increased absorption,OUTCOME,POSITIVELY IMPACTS
+1475,psilocybin,DRUG,Extraversion and Openness scores significantly increased,OUTCOME,POSITIVELY IMPACTS
+1477,psilocybin,DRUG,changes of personality traits,OUTCOME,POSITIVELY IMPACTS
+1478,psilocybin,DRUG,Conscientiousness only at trend-level,OUTCOME,POSITIVELY IMPACTS
+1479,psychedelic,DRUG,depressed individuals,HEALTH,POSITIVELY IMPACTS
+1480,moclobemide,ANTIDEPRESSANT_DRUG,Conscientiousness,OUTCOME,POSITIVELY IMPACTS
+1481,SSRIs,ANTIDEPRESSANT_DRUG,personality,SUBJECTIVE,POSITIVELY IMPACTS
+1482,psychedelics,DRUG,personality,SUBJECTIVE,POSITIVELY IMPACTS
+1483,psychedelics,DRUG,long-lasting increases in trait Openness,OUTCOME,POSITIVELY IMPACTS
+1485,LSD,DRUG,long-lasting increases in trait Openness,OUTCOME,POSITIVELY IMPACTS
+1486,LSD,DRUG,post-traumatic stress disorder,HEALTH,POSITIVELY IMPACTS
+1489,psychedelic,DRUG,post-traumatic stress disorder,HEALTH,POSITIVELY IMPACTS
+1490,Neuroticism,NEURAL,Extraversion,OUTCOME,POSITIVELY IMPACTS
+1491,Neuroticism,NEURAL,Openness,OUTCOME,POSITIVELY IMPACTS
+1492,psychedelic,DRUG,Openness,OUTCOME,POSITIVELY IMPACTS
+1493,psychedelic,DRUG,higher Openness,OUTCOME,POSITIVELY IMPACTS
+1494,psychedelic,DRUG,lasting changes in personality,OUTCOME,POSITIVELY IMPACTS
+1495,psychedelic,DRUG,subtle drop in Openness and Extraversion scores,OUTCOME,POSITIVELY IMPACTS
+1496,religious conversion,SUBJECTIVE,outlook,SUBJECTIVE,POSITIVELY IMPACTS
+1497,spiritual experience,OUTCOME,outlook,SUBJECTIVE,POSITIVELY IMPACTS
+1498,spiritual experience,OUTCOME,long-lasting impact,OUTCOME,POSITIVELY IMPACTS
+1499,mystical experience,SUBJECTIVE,blissful state,SUBJECTIVE,POSITIVELY IMPACTS
+1502,psilocybin,DRUG,self-consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+1506,DMT,DRUG,elevated Openness,OUTCOME,POSITIVELY IMPACTS
+1507,LSD,DRUG,elevated Openness,OUTCOME,POSITIVELY IMPACTS
+1508,LSD,DRUG,changes in Openness,OUTCOME,POSITIVELY IMPACTS
+1509,LSD,DRUG,changes in personality measures,OUTCOME,POSITIVELY IMPACTS
+1511,psychedelic,DRUG,increases in Conscientiousness,OUTCOME,POSITIVELY IMPACTS
+1512,psilocybin,DRUG,increases in Conscientiousness,OUTCOME,POSITIVELY IMPACTS
+1513,psilocybin,DRUG,pronounced increases in Extraversion,OUTCOME,POSITIVELY IMPACTS
+1514,psilocybin,DRUG,Insight,SUBJECTIVE,POSITIVELY IMPACTS
+1515,psychedelic,DRUG,enhanced mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+1516,psychedelic,DRUG,decreased judgmental and reactive attitudes,OUTCOME,POSITIVELY IMPACTS
+1517,ayahuasca,DRUG,enhanced mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+1518,ayahuasca,DRUG,decreased judgmental and reactive attitudes,OUTCOME,POSITIVELY IMPACTS
+1519,ayahuasca,DRUG,Mindsens,NEURAL,POSITIVELY IMPACTS
+1520,Ayahuasca,DRUG,enhanced mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+1521,Ayahuasca,DRUG,decreased judgmental and reactive attitudes,OUTCOME,POSITIVELY IMPACTS
+1522,NAAG,NEURAL,decrease of alpha oscillations,OUTCOME,POSITIVELY IMPACTS
+1523,ayahuasca,DRUG,Glx,NEURAL,POSITIVELY IMPACTS
+1524,ayahuasca,DRUG,clinical improvement,OUTCOME,POSITIVELY IMPACTS
+1526,Psychedelics,DRUG,clinical improvement,OUTCOME,POSITIVELY IMPACTS
+1528,Psychedelics,DRUG,personal sense of “self,SUBJECTIVE,POSITIVELY IMPACTS
+1529,Psychedelics,DRUG,increase in coupling,OUTCOME,POSITIVELY IMPACTS
+1530,psilocybin,DRUG,enhanced mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+1531,LSD,DRUG,increase in coupling,OUTCOME,POSITIVELY IMPACTS
+1532,LSD,DRUG,enhanced mindfulness capacities,OUTCOME,POSITIVELY IMPACTS
+1533,LSD,DRUG,reduced judgmental processing,OUTCOME,POSITIVELY IMPACTS
+1534,LSD,DRUG,increased self-kindness,OUTCOME,POSITIVELY IMPACTS
+1535,psilocybin,DRUG,limbic structures,NEURAL,POSITIVELY IMPACTS
+1537,ayahuasca,DRUG,limbic structures,NEURAL,POSITIVELY IMPACTS
+1538,modification induced by psychedelics,OUTCOME,limbic structures,NEURAL,POSITIVELY IMPACTS
+1540,psychedelic,DRUG,brain plasticity,NEURAL,POSITIVELY IMPACTS
+1541,psychedelic,DRUG,increases in trait openness,OUTCOME,POSITIVELY IMPACTS
+1542,ayahuasca,DRUG,increases in trait openness,OUTCOME,POSITIVELY IMPACTS
+1543,ayahuasca,DRUG,increased self-transcendence,OUTCOME,POSITIVELY IMPACTS
+1544,ayahuasca,DRUG,brain dynamics,NEURAL,POSITIVELY IMPACTS
+1545,ayahuasca,DRUG,addiction disorders,HEALTH,POSITIVELY IMPACTS
+1546,ayahuasca,DRUG,self-centeredness,SUBJECTIVE,POSITIVELY IMPACTS
+1551,ayahuasca,DRUG,brain function,NEURAL,POSITIVELY IMPACTS
+1566,ayahuasca,DRUG,enhanced mindfulness facets,OUTCOME,POSITIVELY IMPACTS
+1567,psilocybin,DRUG,a sense of grounding,OUTCOME,POSITIVELY IMPACTS
+1569,psilocybin,DRUG,…,DRUG,POSITIVELY IMPACTS
+1570,…,DRUG,…,DRUG,POSITIVELY IMPACTS
+1571,misguidance,DRUG,dissonance,DRUG,POSITIVELY IMPACTS
+1572,psilocybin,DRUG,"liking, resonance, and openness",OUTCOME,POSITIVELY IMPACTS
+1573,psilocybin,DRUG,reported insightfulness,OUTCOME,POSITIVELY IMPACTS
+1574,psilocybin,DRUG,insightfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1575,psilocybin,DRUG,promote the occurrence of therapeutically meaningful experiences,OUTCOME,POSITIVELY IMPACTS
+1576,psilocybin,DRUG,sustained positive changes in behaviour and personality,OUTCOME,POSITIVELY IMPACTS
+1581,drug effect,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+1582,psychedelics,DRUG,deeply felt and personally meaningful emotionality,OUTCOME,POSITIVELY IMPACTS
+1583,music,DRUG,deeply felt and personally meaningful emotionality,OUTCOME,POSITIVELY IMPACTS
+1584,intense emotional experiences,OUTCOME,deeply felt and personally meaningful emotionality,OUTCOME,POSITIVELY IMPACTS
+1585,dislike,OUTCOME,sense of being on a journey,SUBJECTIVE,POSITIVELY IMPACTS
+1586,psilocybin,DRUG,paranoia,OUTCOME,POSITIVELY IMPACTS
+1587,psilocybin,DRUG,meaningful and spiritually significant experiences,OUTCOME,POSITIVELY IMPACTS
+1589,psilocybin,DRUG,egodissolution,SUBJECTIVE,POSITIVELY IMPACTS
+1590,psilocybin,DRUG,addiction treatment,HEALTH,POSITIVELY IMPACTS
+1591,unity experience,SUBJECTIVE,sense of sanity,SUBJECTIVE,POSITIVELY IMPACTS
+1592,serotonergic hallucinogens,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1593,serotonergic hallucinogens,DRUG,mood,HEALTH,POSITIVELY IMPACTS
+1594,serotonergic hallucinogens,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1595,serotonergic hallucinogens,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+1596,serotonergic hallucinogens,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+1598,psychedelics,DRUG,mood,HEALTH,POSITIVELY IMPACTS
+1599,psychedelics,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1600,psychedelics,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+1609,LSD,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1611,LSD,DRUG,alcohol dependence,HEALTH,POSITIVELY IMPACTS
+1614,psilocybin,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1615,psilocybin,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+1617,psilocybin,DRUG,alcohol dependence,HEALTH,POSITIVELY IMPACTS
+1618,psilocybin,DRUG,anxiolytic and antidepressive effects,OUTCOME,POSITIVELY IMPACTS
+1619,psilocybin,DRUG,advanced-stage cancer,HEALTH,POSITIVELY IMPACTS
+1624,LSD,DRUG,existential anxiety,HEALTH,POSITIVELY IMPACTS
+1636,alcoholism,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+1659,psilocybin,DRUG,rapid (24 h),OUTCOME,POSITIVELY IMPACTS
+1660,psilocybin,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+1661,psilocybin,DRUG,antiaddictive effects,OUTCOME,POSITIVELY IMPACTS
+1665,ayahuasca,DRUG,rapid (24 h),OUTCOME,POSITIVELY IMPACTS
+1666,ayahuasca,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+1667,ayahuasca,DRUG,antiaddictive effects,OUTCOME,POSITIVELY IMPACTS
+1671,LSD,DRUG,antiaddictive effects,OUTCOME,POSITIVELY IMPACTS
+1674,LSD,DRUG,reduced impulsivity,OUTCOME,POSITIVELY IMPACTS
+1675,LSD,DRUG,novelty seeking,OUTCOME,POSITIVELY IMPACTS
+1681,ayahuasca,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1687,ayahuasca,DRUG,stress,OUTCOME,POSITIVELY IMPACTS
+1689,convergent thinking,OUTCOME,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1699,Antidepressant properties,OUTCOME,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1700,ayahuasca,DRUG,satisfaction with life,OUTCOME,POSITIVELY IMPACTS
+1707,MAO-A inhibitors,NEURAL,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1709,harmaline,DRUG,hippocampal progenitor cells,NEURAL,POSITIVELY IMPACTS
+1710,harmaline,DRUG,Neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1711,psychedelic compounds,DRUG,hippocampal progenitor cells,NEURAL,POSITIVELY IMPACTS
+1712,psychedelic compounds,DRUG,synaptic plasticity,NEURAL,POSITIVELY IMPACTS
+1713,psychedelic compounds,DRUG,Neurogenesis,OUTCOME,POSITIVELY IMPACTS
+1717,ayahuasca,DRUG,changes in mindfulness,OUTCOME,POSITIVELY IMPACTS
+1722,ayahuasca,DRUG,modified state of consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+1723,PCT performance,OUTCOME,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1725,psychedelic,DRUG,mindfulness,SUBJECTIVE,POSITIVELY IMPACTS
+1730,ayahuasca,DRUG,stronger reductions in symptoms of depression,OUTCOME,POSITIVELY IMPACTS
+1742,ayahuasca,DRUG,changes in mood and thinking,OUTCOME,POSITIVELY IMPACTS
+1743,ayahuasca,DRUG,affect and cognition,OUTCOME,POSITIVELY IMPACTS
+1748,ayahuasca,DRUG,affect,SUBJECTIVE,POSITIVELY IMPACTS
+1816,hallucinogens,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+1817,psilocybin,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+1818,DMT,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+1821,biochemical reactions,OUTCOME,psychotic state,OUTCOME,POSITIVELY IMPACTS
+1822,hallucinogens,DRUG,psychotic state,OUTCOME,POSITIVELY IMPACTS
+1824,ayahuasca,DRUG,psychotic state,OUTCOME,POSITIVELY IMPACTS
+1825,serotonergic hallucinogens,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+1826,ayahuasca,DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+1830,psilocybin,DRUG,medial prefrontal cortex,NEURAL,POSITIVELY IMPACTS
+1831,psilocybin,DRUG,lingual gyrus,NEURAL,POSITIVELY IMPACTS
+1832,psilocybin,DRUG,attenuated right amygdala activation,OUTCOME,POSITIVELY IMPACTS
+1833,psilocybin,DRUG,increases in positive mood,OUTCOME,POSITIVELY IMPACTS
+1834,psilocybin,DRUG,decreased the threat-induced modulation of top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+1835,psilocybin,DRUG,increased parahippocampal cortex/visual cortex functional connectivity,OUTCOME,POSITIVELY IMPACTS
+1836,psilocybin,DRUG,parahippocampal cortex to visual cortex information flow,OUTCOME,POSITIVELY IMPACTS
+1837,precuneus,NEURAL,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1842,superior frontal gyrus,NEURAL,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1855,increased psychopathology,OUTCOME,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1859,ayahuasca,DRUG,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1860,hallucinogens,DRUG,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1861,serotonergic hallucinogens,DRUG,self-transcendence”/spirituality,OUTCOME,POSITIVELY IMPACTS
+1862,serotonergic hallucinogens,DRUG,neocortex,NEURAL,POSITIVELY IMPACTS
+1863,serotonergic hallucinogens,DRUG,"genetic, neurochemical, and behavioral alterations",OUTCOME,POSITIVELY IMPACTS
+1864,serotonergic hallucinogens,DRUG,brain regions,NEURAL,POSITIVELY IMPACTS
+1866,serotonergic hallucinogens,DRUG,γ-aminobutyric acid,DRUG,POSITIVELY IMPACTS
+1867,ayahuasca,DRUG,"genetic, neurochemical, and behavioral alterations",OUTCOME,POSITIVELY IMPACTS
+1869,ayahuasca,DRUG,γ-aminobutyric acid,DRUG,POSITIVELY IMPACTS
+1872,ayahuasca,DRUG,interfered with emotional memory,OUTCOME,POSITIVELY IMPACTS
+1873,ayahuasca,DRUG,patterns of neuronal activation,OUTCOME,POSITIVELY IMPACTS
+1874,ayahuasca,DRUG,higher neuronal activation,OUTCOME,POSITIVELY IMPACTS
+1876,DMN,NEURAL,decrease the power of lower frequency oscillations,OUTCOME,POSITIVELY IMPACTS
+1877,serotonergic hallucinogens,DRUG,decrease the power of lower frequency oscillations,OUTCOME,POSITIVELY IMPACTS
+1878,serotonergic hallucinogens,DRUG,alpha oscillations,NEURAL,POSITIVELY IMPACTS
+1880,parahippocampal region,NEURAL,decrease the power of lower frequency oscillations,OUTCOME,POSITIVELY IMPACTS
+1881,altered information flow,OUTCOME,expanded awareness,OUTCOME,POSITIVELY IMPACTS
+1882,altered information flow,OUTCOME,unconstrained cognition,OUTCOME,POSITIVELY IMPACTS
+1884,compounds,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+1885,compounds,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+1886,compounds,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+1887,ayahuasca,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+1893,LSD,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+1896,ayahuasca,DRUG,increases in positive mood,OUTCOME,POSITIVELY IMPACTS
+1899,ayahuasca,DRUG,therapeutic potentials,OUTCOME,POSITIVELY IMPACTS
+1900,ayahuasca,DRUG,self-transcendence,SUBJECTIVE,POSITIVELY IMPACTS
+1902,serotonergic hallucinogens,DRUG,self-transcendence,SUBJECTIVE,POSITIVELY IMPACTS
+1903,serotonergic hallucinogens,DRUG,Self-transcendence,SUBJECTIVE,POSITIVELY IMPACTS
+1906,religious/mystical experiences,OUTCOME,self-transcendence,SUBJECTIVE,POSITIVELY IMPACTS
+1907,psilocybin,DRUG,attitudes,SUBJECTIVE,POSITIVELY IMPACTS
+1909,psilocybin,DRUG,alcohol (,OUTCOME,POSITIVELY IMPACTS
+1910,religious-like experiences,OUTCOME,mood,SUBJECTIVE,POSITIVELY IMPACTS
+1914,LSD,DRUG,attitudes,SUBJECTIVE,POSITIVELY IMPACTS
+1918,serotonergic hallucinogens,DRUG,meditation,OUTCOME,POSITIVELY IMPACTS
+1919,serotonergic hallucinogens,DRUG,prefrontal and limbic areas,NEURAL,POSITIVELY IMPACTS
+1921,compounds,DRUG,meditation,OUTCOME,POSITIVELY IMPACTS
+1922,compounds,DRUG,prefrontal and limbic areas,NEURAL,POSITIVELY IMPACTS
+1923,compounds,DRUG,decreases in reactivity of brain structures,OUTCOME,POSITIVELY IMPACTS
+1925,compounds,DRUG,reduced brain activity in key regions of the DMN,OUTCOME,POSITIVELY IMPACTS
+1926,amygdala,NEURAL,prefrontal and limbic areas,NEURAL,POSITIVELY IMPACTS
+1927,amygdala,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+1928,amygdala,NEURAL,mood disorders,HEALTH,POSITIVELY IMPACTS
+1929,amygdala,NEURAL,cortical thickness alterations,OUTCOME,POSITIVELY IMPACTS
+1935,serotonergic hallucinogens,DRUG,mood disorders,HEALTH,POSITIVELY IMPACTS
+1936,serotonergic hallucinogens,DRUG,cortical thickness alterations,OUTCOME,POSITIVELY IMPACTS
+1937,drugs,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+1939,drugs,DRUG,mood disorders,HEALTH,POSITIVELY IMPACTS
+1940,drugs,DRUG,cortical thickness alterations,OUTCOME,POSITIVELY IMPACTS
+1941,DMN,NEURAL,mood disorders,HEALTH,POSITIVELY IMPACTS
+1942,posterior,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+1943,posterior,NEURAL,mood disorders,HEALTH,POSITIVELY IMPACTS
+1944,serotonergic hallucinogens,DRUG,psychiatric disorders,HEALTH,POSITIVELY IMPACTS
+1945,serotonergic hallucinogens,DRUG,therapeutic uses,OUTCOME,POSITIVELY IMPACTS
+1946,serotonergic hallucinogens,DRUG,treatment-resistant patients,HEALTH,POSITIVELY IMPACTS
+1951,psilocybin,DRUG,"deeply meaningful, mystical experiences",OUTCOME,POSITIVELY IMPACTS
+1953,Indocybin,DRUG,mood disorder,HEALTH,POSITIVELY IMPACTS
+1954,psychedelic drugs,DRUG,toxicity ratio,OUTCOME,POSITIVELY IMPACTS
+1955,psychedelic drugs,DRUG,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1956,psilocybin,DRUG,toxicity ratio,OUTCOME,POSITIVELY IMPACTS
+1957,psilocybin,DRUG,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1958,LSD,DRUG,brain damage,OUTCOME,POSITIVELY IMPACTS
+1960,LSD,DRUG,long-lasting personality change,OUTCOME,POSITIVELY IMPACTS
+1971,psychedelic drugs,DRUG,brain damage,OUTCOME,POSITIVELY IMPACTS
+1972,psychedelic drugs,DRUG,long-lasting personality change,OUTCOME,POSITIVELY IMPACTS
+1975,serotonergic psychedelics,DRUG,opiate overdoses(National,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1976,psilocybin,DRUG,opiate overdoses(National,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+1977,escitalopram,ANTIDEPRESSANT_DRUG,depression,HEALTH,POSITIVELY IMPACTS
+1987,psilocybin,DRUG,mediating influence on positive outcomes.21,OUTCOME,POSITIVELY IMPACTS
+1988,psilocybin,DRUG,psychiatric conditions,HEALTH,POSITIVELY IMPACTS
+1991,psychological support,OUTCOME,improved outcomes,OUTCOME,POSITIVELY IMPACTS
+1992,psychological support,OUTCOME,subjective effects,SUBJECTIVE,POSITIVELY IMPACTS
+1994,psilocybin,DRUG,improved outcomes,OUTCOME,POSITIVELY IMPACTS
+1998,Psychedelic agents,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2000,Psychedelic agents,DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+2001,Psychedelic agents,DRUG,"enhance suggestibility,23",OUTCOME,POSITIVELY IMPACTS
+2003,Psychedelic agents,DRUG,increase dendritic arbor complexity,OUTCOME,POSITIVELY IMPACTS
+2009,psychological effects,OUTCOME,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2013,psychedelic compounds,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2014,psychedelic compounds,DRUG,increase dendritic arbor complexity,OUTCOME,POSITIVELY IMPACTS
+2015,psychedelic compounds,DRUG,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2016,compounds,DRUG,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2019,5-HT2A receptor,NEURAL,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2020,psychedelics,DRUG,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2021,escitalopram,ANTIDEPRESSANT_DRUG,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2022,psilocybin,DRUG,increase dendritic arbor complexity,OUTCOME,POSITIVELY IMPACTS
+2023,psilocybin,DRUG,neuronal plasticity,OUTCOME,POSITIVELY IMPACTS
+2026,escitalopram,ANTIDEPRESSANT_DRUG,increase dendritic arbor complexity,OUTCOME,POSITIVELY IMPACTS
+2028,psilocybin,DRUG,microdoses,DRUG,POSITIVELY IMPACTS
+2029,psilocybin,DRUG,microdosed,DRUG,POSITIVELY IMPACTS
+2030,psilocybin,DRUG,mood and cognitive enhancers,OUTCOME,POSITIVELY IMPACTS
+2031,psychedelic microdosing,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2032,performance improvements,OUTCOME,anxiety,HEALTH,POSITIVELY IMPACTS
+2034,OCD,HEALTH,anxiety,HEALTH,POSITIVELY IMPACTS
+2037,LSD,DRUG,functional drug use,OUTCOME,POSITIVELY IMPACTS
+2038,psychedelic drugs,DRUG,functional drug use,OUTCOME,POSITIVELY IMPACTS
+2039,Psychedelics,DRUG,functional drug use,OUTCOME,POSITIVELY IMPACTS
+2040,Psychedelics,DRUG,avoiding the problems,OUTCOME,POSITIVELY IMPACTS
+2041,microdosing,DRUG,less constructive and self-reflective approach,OUTCOME,POSITIVELY IMPACTS
+2042,psychedelics,DRUG,improved disease coping strategies and attitudes,OUTCOME,POSITIVELY IMPACTS
+2043,LSD,DRUG,self-reflection,SUBJECTIVE,POSITIVELY IMPACTS
+2044,DMN,NEURAL,self-reflection,SUBJECTIVE,POSITIVELY IMPACTS
+2045,DMN,NEURAL,spontaneous cognition,SUBJECTIVE,POSITIVELY IMPACTS
+2046,DMN,NEURAL,cognition,SUBJECTIVE,POSITIVELY IMPACTS
+2052,psilocybin,DRUG,autobiographical memory,OUTCOME,POSITIVELY IMPACTS
+2053,psilocybin,DRUG,preservation of the sense of self,OUTCOME,POSITIVELY IMPACTS
+2054,psilocybin,DRUG,maintenance of one’s sense of self,OUTCOME,POSITIVELY IMPACTS
+2055,LSD,DRUG,maintenance of one’s sense of self,OUTCOME,POSITIVELY IMPACTS
+2056,psychedelic,DRUG,maintenance of one’s sense of self,OUTCOME,POSITIVELY IMPACTS
+2057,psychedelic,DRUG,self-loss,SUBJECTIVE,POSITIVELY IMPACTS
+2058,autobiographical information,OUTCOME,secure sense of self,OUTCOME,POSITIVELY IMPACTS
+2059,LSD,DRUG,autobiographical memory,SUBJECTIVE,POSITIVELY IMPACTS
+2060,LSD,DRUG,self,SUBJECTIVE,POSITIVELY IMPACTS
+2061,psychedelic,DRUG,highly salient and/or traumatic events,OUTCOME,POSITIVELY IMPACTS
+2062,altered) states of consciousness,SUBJECTIVE,spontaneous cognition,OUTCOME,POSITIVELY IMPACTS
+2067,LSD,DRUG,intoxicant,DRUG,POSITIVELY IMPACTS
+2068,LSD,DRUG,mentation about the future,OUTCOME,POSITIVELY IMPACTS
+2069,LSD,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+2071,exhilarating,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+2072,exhilarating,DRUG,past-focused mentation,SUBJECTIVE,POSITIVELY IMPACTS
+2073,exhilarating,DRUG,past-focused reflection,SUBJECTIVE,POSITIVELY IMPACTS
+2074,exhilarating experiences,HEALTH,alcohol,DRUG,POSITIVELY IMPACTS
+2075,exhilarating experiences,HEALTH,past-focused reflection,SUBJECTIVE,POSITIVELY IMPACTS
+2078,psychedelics,DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+2080,psilocybin,DRUG,past-focused reflection,SUBJECTIVE,POSITIVELY IMPACTS
+2082,psychedelics,DRUG,promoting a mental state,OUTCOME,POSITIVELY IMPACTS
+2083,psychedelics,DRUG,mindfulness-promoting effects,OUTCOME,POSITIVELY IMPACTS
+2084,LSD,DRUG,promoting a mental state,OUTCOME,POSITIVELY IMPACTS
+2085,LSD,DRUG,mindfulness-promoting effects,OUTCOME,POSITIVELY IMPACTS
+2087,psychedelic compounds,DRUG,sustained changes in attitudes and beliefs,OUTCOME,POSITIVELY IMPACTS
+2088,psychedelic compounds,DRUG,trait openness,OUTCOME,POSITIVELY IMPACTS
+2089,psychedelic compounds,DRUG,optimism,OUTCOME,POSITIVELY IMPACTS
+2091,psilocybin,DRUG,reduction of depressive symptoms,OUTCOME,POSITIVELY IMPACTS
+2093,psilocybin,DRUG,optimism,OUTCOME,POSITIVELY IMPACTS
+2094,psilocybin,DRUG,enduring reductions in anxiety,OUTCOME,POSITIVELY IMPACTS
+2096,psilocybin,DRUG,"life meaning, and optimism",OUTCOME,POSITIVELY IMPACTS
+2099,psilocybin,DRUG,rapid and sustained antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+2100,psilocybin,DRUG,MDD,HEALTH,POSITIVELY IMPACTS
+2102,greater nature relatedness,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2103,psychedelic,DRUG,nature-inspiring experiences of awe,OUTCOME,POSITIVELY IMPACTS
+2104,psychedelic,DRUG,cognitive and affective benefits,OUTCOME,POSITIVELY IMPACTS
+2106,psilocybin,DRUG,sense of ‘connectedness,SUBJECTIVE,POSITIVELY IMPACTS
+2107,Psychedelic drug,DRUG,higher on attitudes of,OUTCOME,POSITIVELY IMPACTS
+2108,psychedelic,DRUG,higher on attitudes of,OUTCOME,POSITIVELY IMPACTS
+2109,psychedelics,DRUG,higher on attitudes of,OUTCOME,POSITIVELY IMPACTS
+2110,psychedelics,DRUG,lower value on ‘financial prosperity,OUTCOME,POSITIVELY IMPACTS
+2112,psychedelics,DRUG,increase trait openness,OUTCOME,POSITIVELY IMPACTS
+2113,psychedelics,DRUG,positive association between openness and liberalism,OUTCOME,POSITIVELY IMPACTS
+2114,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,alcohol,DRUG,POSITIVELY IMPACTS
+2115,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,profound implications,OUTCOME,POSITIVELY IMPACTS
+2116,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,promote a generalised sense of connectedness,OUTCOME,POSITIVELY IMPACTS
+2117,psychedelic,DRUG,profound implications,OUTCOME,POSITIVELY IMPACTS
+2118,psychedelic,DRUG,promote a generalised sense of connectedness,OUTCOME,POSITIVELY IMPACTS
+2119,psilocybin,DRUG,authoritarian attitudes,OUTCOME,POSITIVELY IMPACTS
+2121,AYA,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+2123,psychedelic substances,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+2125,AYA,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+2128,AYA,DRUG,sense of “self,SUBJECTIVE,POSITIVELY IMPACTS
+2130,hallucinogens,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+2133,psilocybin,DRUG,reduced amygdala reactivity,OUTCOME,POSITIVELY IMPACTS
+2136,AYA,DRUG,brain,NEURAL,POSITIVELY IMPACTS
+2137,AYA,DRUG,attentional processes,OUTCOME,POSITIVELY IMPACTS
+2146,hypomania,OUTCOME,bipolar disorders,HEALTH,POSITIVELY IMPACTS
+2148,optimism,OUTCOME,life attitudes and views,OUTCOME,POSITIVELY IMPACTS
+2149,AYA,DRUG,changes in personality traits,OUTCOME,POSITIVELY IMPACTS
+2150,AYA,DRUG,life attitudes and views,OUTCOME,POSITIVELY IMPACTS
+2151,AYA,DRUG,shyness,OUTCOME,POSITIVELY IMPACTS
+2152,AYA,DRUG,transpersonal feelings and spirituality,OUTCOME,POSITIVELY IMPACTS
+2154,AYA,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2155,psilocybin,DRUG,modulated effective connectivity,OUTCOME,POSITIVELY IMPACTS
+2156,psilocybin,DRUG,threat-processing,OUTCOME,POSITIVELY IMPACTS
+2157,AMG,NEURAL,visual threat processing,NEURAL,POSITIVELY IMPACTS
+2159,psilocybin,DRUG,attenuation of top-down threat signaling,OUTCOME,POSITIVELY IMPACTS
+2160,psilocybin,DRUG,decreased threat sensitivity in the visual cortex,OUTCOME,POSITIVELY IMPACTS
+2163,psilocybin,DRUG,attenuation of top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2166,psilocybin,DRUG,decrease of behavioral and electrophysiological responses in the visual cortex to threat stimuli,OUTCOME,POSITIVELY IMPACTS
+2168,psilocybin,DRUG,threat processing,OUTCOME,POSITIVELY IMPACTS
+2170,psilocybin,DRUG,visual cortex,NEURAL,POSITIVELY IMPACTS
+2176,psilocybin,DRUG,inhibitory top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2177,psilocybin,DRUG,increased LPFC → AMG top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2178,psilocybin,DRUG,increase top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2179,psilocybin,DRUG,reduction of AMG activity,OUTCOME,POSITIVELY IMPACTS
+2180,psilocybin,DRUG,increased top-down effect,OUTCOME,POSITIVELY IMPACTS
+2186,psilocybin,DRUG,reduced top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2187,psilocybin,DRUG,reduced top-down modulation,OUTCOME,POSITIVELY IMPACTS
+2192,psilocybin,DRUG,amygdala neurons,NEURAL,POSITIVELY IMPACTS
+2193,DOI,NEURAL,reduced top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2194,DOI,NEURAL,amygdala neurons,NEURAL,POSITIVELY IMPACTS
+2195,AMG,NEURAL,reduced top-down connectivity,OUTCOME,POSITIVELY IMPACTS
+2196,AMG,NEURAL,reduced top-down modulation,OUTCOME,POSITIVELY IMPACTS
+2197,AMG,NEURAL,amygdala neurons,NEURAL,POSITIVELY IMPACTS
+2198,selective serotonin reuptake inhibitor,ANTIDEPRESSANT_DRUG,amygdala,NEURAL,POSITIVELY IMPACTS
+2200,psychedelic,DRUG,emotional breakthrough,OUTCOME,POSITIVELY IMPACTS
+2201,EBI,NEURAL,emotional breakthrough,OUTCOME,POSITIVELY IMPACTS
+2202,psychedelic,DRUG,therapeutic setting,OUTCOME,POSITIVELY IMPACTS
+2204,psychedelic,DRUG,state,SUBJECTIVE,POSITIVELY IMPACTS
+2207,psychedelic,DRUG,increased brain entropy,OUTCOME,POSITIVELY IMPACTS
+2209,psychedelic,DRUG,increased trait ‘openness,OUTCOME,POSITIVELY IMPACTS
+2212,Psychedelics,DRUG,depressive symptoms,HEALTH,POSITIVELY IMPACTS
+2213,DMT,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2215,DMT,DRUG,shorter total distance,OUTCOME,POSITIVELY IMPACTS
+2218,DMT,DRUG,spatial memory,OUTCOME,POSITIVELY IMPACTS
+2219,decreased rearing,OUTCOME,anxiety,HEALTH,POSITIVELY IMPACTS
+2222,compounds,DRUG,lasting impact on fear memory,OUTCOME,POSITIVELY IMPACTS
+2223,DMT,DRUG,stronger extinction memory,OUTCOME,POSITIVELY IMPACTS
+2224,DMT,DRUG,increases swimming behavior,OUTCOME,POSITIVELY IMPACTS
+2225,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2226,ayahuasca,DRUG,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2228,ayahuasca,DRUG,treatment-resistant populations,HEALTH,POSITIVELY IMPACTS
+2229,ketamine,DRUG,fluoxetine,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2230,ketamine,DRUG,long-lasting,OUTCOME,POSITIVELY IMPACTS
+2233,ketamine,DRUG,treatment-resistant populations,HEALTH,POSITIVELY IMPACTS
+2235,ketamine,DRUG,brain,NEURAL,POSITIVELY IMPACTS
+2238,ketamine,DRUG,long-lasting changes,OUTCOME,POSITIVELY IMPACTS
+2239,DMT,DRUG,long-lasting changes,OUTCOME,POSITIVELY IMPACTS
+2240,NMDA,NEURAL,long-lasting changes,OUTCOME,POSITIVELY IMPACTS
+2243,ayahausca,DRUG,long-lasting changes,OUTCOME,POSITIVELY IMPACTS
+2244,ayahausca,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2245,DMT,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2256,serotonergic psychedelic,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2262,DMT,DRUG,antidepressants,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2270,ayahuasca,DRUG,antidepressants,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2271,serotonergic psychedelics,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2275,LSD,DRUG,behavior,SUBJECTIVE,POSITIVELY IMPACTS
+2276,LSD,DRUG,detectable subjective effects,OUTCOME,POSITIVELY IMPACTS
+2277,LSD,DRUG,increases in ratings of drug effects scales,OUTCOME,POSITIVELY IMPACTS
+2278,LSD,DRUG,subjective and behavioral effects,OUTCOME,POSITIVELY IMPACTS
+2279,LSD,DRUG,microdoses,DRUG,POSITIVELY IMPACTS
+2287,LSD,DRUG,feel drug,OUTCOME,POSITIVELY IMPACTS
+2288,LSD,DRUG,drug,OUTCOME,POSITIVELY IMPACTS
+2294,LSD,DRUG,effects on mood,OUTCOME,POSITIVELY IMPACTS
+2296,LSD,DRUG,mood disturbances,HEALTH,POSITIVELY IMPACTS
+2297,drug,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2298,drug,DRUG,stress,OUTCOME,POSITIVELY IMPACTS
+2299,drug,DRUG,lower distractibility,OUTCOME,POSITIVELY IMPACTS
+2304,microdosing psilocybin,DRUG,improved convergent and divergent thinking,OUTCOME,POSITIVELY IMPACTS
+2305,psilocybin,DRUG,reduced feelings of social rejection,OUTCOME,POSITIVELY IMPACTS
+2308,drugs,DRUG,therapeutic affects,OUTCOME,POSITIVELY IMPACTS
+2309,drugs,DRUG,the drug,DRUG,POSITIVELY IMPACTS
+2312,drug,DRUG,the drug,DRUG,POSITIVELY IMPACTS
+2313,drug,DRUG,improves mood and cognition,OUTCOME,POSITIVELY IMPACTS
+2314,drug,DRUG,understanding of the neural and behavioral processes,OUTCOME,POSITIVELY IMPACTS
+2315,drug,DRUG,depressed mood,HEALTH,POSITIVELY IMPACTS
+2316,psychedelic microdosing,DRUG,lower dysfunctional attitudes and negative emotionality,OUTCOME,POSITIVELY IMPACTS
+2317,psychedelic microdosing,DRUG,"higher wisdom, open-mindedness, and creativity",OUTCOME,POSITIVELY IMPACTS
+2318,microdosing,DRUG,lower dysfunctional attitudes and negative emotionality,OUTCOME,POSITIVELY IMPACTS
+2319,microdosing,DRUG,"higher wisdom, open-mindedness, and creativity",OUTCOME,POSITIVELY IMPACTS
+2322,LSD,DRUG,lower dysfunctional attitudes and negative emotionality,OUTCOME,POSITIVELY IMPACTS
+2323,LSD,DRUG,"higher wisdom, open-mindedness, and creativity",OUTCOME,POSITIVELY IMPACTS
+2324,psilocybin,DRUG,lower dysfunctional attitudes and negative emotionality,OUTCOME,POSITIVELY IMPACTS
+2325,psilocybin,DRUG,"higher wisdom, open-mindedness, and creativity",OUTCOME,POSITIVELY IMPACTS
+2326,psilocybin,DRUG,meaningfully lower levels of dysfunctional attitudes,OUTCOME,POSITIVELY IMPACTS
+2329,microdosing,DRUG,meaningfully lower levels of dysfunctional attitudes,OUTCOME,POSITIVELY IMPACTS
+2330,microdosing,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2331,microdosing,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2332,microdosers,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2333,microdosers,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2334,microdosers,DRUG,positive emotional valence,OUTCOME,POSITIVELY IMPACTS
+2336,microdosers,DRUG,enhanced capacity for perspective taking,OUTCOME,POSITIVELY IMPACTS
+2337,microdosers,DRUG,resilience in the face of the vicissitudes of life,OUTCOME,POSITIVELY IMPACTS
+2338,microdosers,DRUG,increased feelings of engagement and connection,OUTCOME,POSITIVELY IMPACTS
+2339,microdosers,DRUG,increases in openness,OUTCOME,POSITIVELY IMPACTS
+2340,microdosing,DRUG,creativity,DRUG,POSITIVELY IMPACTS
+2341,microdosing,DRUG,mood,DRUG,POSITIVELY IMPACTS
+2346,decreased amygdala responsiveness,OUTCOME,therapeutic action,OUTCOME,POSITIVELY IMPACTS
+2347,SSRIs,ANTIDEPRESSANT_DRUG,therapeutic action,OUTCOME,POSITIVELY IMPACTS
+2348,psilocybin,DRUG,therapeutic action,OUTCOME,POSITIVELY IMPACTS
+2350,psilocybin,DRUG,make emotional ‘confrontation’ more likely,OUTCOME,POSITIVELY IMPACTS
+2351,psilocybin,DRUG,emotional breakthrough,OUTCOME,POSITIVELY IMPACTS
+2352,psilocybin,DRUG,resolution,OUTCOME,POSITIVELY IMPACTS
+2355,psilocybin,DRUG,antidepressant action,OUTCOME,POSITIVELY IMPACTS
+2356,psilocybin,DRUG,changes in spontaneous brain function,OUTCOME,POSITIVELY IMPACTS
+2357,psilocybin,DRUG,acute brain effects,OUTCOME,POSITIVELY IMPACTS
+2364,psilocybin,DRUG,post treatment brain changes,OUTCOME,POSITIVELY IMPACTS
+2365,psilocybin,DRUG,functional brain measures,OUTCOME,POSITIVELY IMPACTS
+2367,psilocybin,DRUG,novel intervention for major depression,OUTCOME,POSITIVELY IMPACTS
+2369,Psilocybin,DRUG,depressed patients,HEALTH,POSITIVELY IMPACTS
+2370,Psilocybin,DRUG,novel intervention for major depression,OUTCOME,POSITIVELY IMPACTS
+2371,Psilocybin,DRUG,"safe, rapid and potentially enduring in its antidepressant action",OUTCOME,POSITIVELY IMPACTS
+2374,cancer-related psychiatric and existential distress,HEALTH,depression,HEALTH,POSITIVELY IMPACTS
+2375,psilocybin,DRUG,cancer-related psychiatric and existential distress,HEALTH,POSITIVELY IMPACTS
+2378,psilocybin,DRUG,hopelessness,OUTCOME,POSITIVELY IMPACTS
+2379,psilocybin,DRUG,demoralization,OUTCOME,POSITIVELY IMPACTS
+2380,psilocybin,DRUG,death anxiety,OUTCOME,POSITIVELY IMPACTS
+2381,psilocybin,DRUG,spiritual well-being,OUTCOME,POSITIVELY IMPACTS
+2386,hopelessness,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2388,antidepressant or anxiolytic response,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2389,subjective experiences of positive changes,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2394,psilocybin,DRUG,subjective experiences of positive changes,OUTCOME,POSITIVELY IMPACTS
+2397,psilocybin,DRUG,personally meaningful and spiritually significant experiences,OUTCOME,POSITIVELY IMPACTS
+2398,psilocybin,DRUG,existential distress,HEALTH,POSITIVELY IMPACTS
+2399,personally meaningful and spiritually significant experiences,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2405,psilocybin,DRUG,cancer-related existential distress,HEALTH,POSITIVELY IMPACTS
+2412,psilocybin,DRUG,promising protective strategy against suicides,OUTCOME,POSITIVELY IMPACTS
+2413,psilocybin,DRUG,passive suicidality,HEALTH,POSITIVELY IMPACTS
+2418,psilocybin,DRUG,cancer-related distress,HEALTH,POSITIVELY IMPACTS
+2420,psilocybin,DRUG,stronger reductions in subjective reports of depression,OUTCOME,POSITIVELY IMPACTS
+2423,psilocybin,DRUG,anxiolytic and antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+2424,mystical-type experience,SUBJECTIVE,anxiolytic and antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+2427,psilocybin,DRUG,addictive disorders,HEALTH,POSITIVELY IMPACTS
+2428,psilocybin,DRUG,increases in trait openness,OUTCOME,POSITIVELY IMPACTS
+2430,Psychedelic-induced states of consciousness,SUBJECTIVE,increases in trait openness,OUTCOME,POSITIVELY IMPACTS
+2431,Psychedelic-induced states of consciousness,SUBJECTIVE,cognitive flexibility,OUTCOME,POSITIVELY IMPACTS
+2432,Psychedelic-induced states of consciousness,SUBJECTIVE,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+2433,psilocybin,DRUG,dissolution of boundaries,SUBJECTIVE,POSITIVELY IMPACTS
+2434,psilocybin,DRUG,feelings of unity,SUBJECTIVE,POSITIVELY IMPACTS
+2436,psilocybin,DRUG,cope with life stressors,OUTCOME,POSITIVELY IMPACTS
+2444,psilocybin,DRUG,emotional processing,OUTCOME,POSITIVELY IMPACTS
+2445,psilocybin,DRUG,emotional regulation in the long-term,OUTCOME,POSITIVELY IMPACTS
+2454,psilocybin,DRUG,"highly memorable, meaningful, and spiritually significant effects",OUTCOME,POSITIVELY IMPACTS
+2455,psilocybin,DRUG,inherently confer therapeutic benefits,OUTCOME,POSITIVELY IMPACTS
+2471,psychedelic compounds,DRUG,antidepressants,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2472,psychedelic compounds,DRUG,monoaminergic enhancement,NEURAL,POSITIVELY IMPACTS
+2474,psychedelics,DRUG,antidepressants,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2475,psychedelics,DRUG,monoaminergic enhancement,NEURAL,POSITIVELY IMPACTS
+2479,PLA,DRUG,rapid action,OUTCOME,POSITIVELY IMPACTS
+2481,BDNF,NEURAL,BDNF,SUBJECTIVE,POSITIVELY IMPACTS
+2483,ayahuasca,DRUG,lower symptoms of depression,OUTCOME,POSITIVELY IMPACTS
+2484,ayahuasca,DRUG,antidepressant,ANTIDEPRESSANT_DRUG,POSITIVELY IMPACTS
+2485,psilocybin,DRUG,cancer-related emotional distress,HEALTH,POSITIVELY IMPACTS
+2486,psilocybin,DRUG,"rapid, substantial, and enduring anxiolytic and antidepressant effects",OUTCOME,POSITIVELY IMPACTS
+2487,psilocybin,DRUG,cancer-related psychological and existential distress,HEALTH,POSITIVELY IMPACTS
+2489,psilocybin,DRUG,symptoms of distress,OUTCOME,POSITIVELY IMPACTS
+2492,Chrissy,DRUG,death,HEALTH,POSITIVELY IMPACTS
+2494,cord to the universe,SUBJECTIVE,death,HEALTH,POSITIVELY IMPACTS
+2497,mystical-type experiences,SUBJECTIVE,death,HEALTH,POSITIVELY IMPACTS
+2500,cancer,HEALTH,death,HEALTH,POSITIVELY IMPACTS
+2502,death,HEALTH,death,HEALTH,POSITIVELY IMPACTS
+2503,no longer being preoccupied or overwhelmed by fear,OUTCOME,death,HEALTH,POSITIVELY IMPACTS
+2504,psilocybin,DRUG,release of complicated emotions,OUTCOME,POSITIVELY IMPACTS
+2509,psilocybin,DRUG,expanded perspective on,OUTCOME,POSITIVELY IMPACTS
+2510,psilocybin,DRUG,Transcendence,SUBJECTIVE,POSITIVELY IMPACTS
+2511,psilocybin,DRUG,greater meaning to suffering,OUTCOME,POSITIVELY IMPACTS
+2512,psilocybin,DRUG,spiritually significant,OUTCOME,POSITIVELY IMPACTS
+2513,psilocybin,DRUG,personally meaningful experiences,OUTCOME,POSITIVELY IMPACTS
+2514,psilocybin,DRUG,spiritual significance,OUTCOME,POSITIVELY IMPACTS
+2515,psilocybin,DRUG,expanded life priorities,OUTCOME,POSITIVELY IMPACTS
+2519,psilocybin,DRUG,emotions,SUBJECTIVE,POSITIVELY IMPACTS
+2520,psilocybin,DRUG,positive attributes in meaning,OUTCOME,POSITIVELY IMPACTS
+2525,psilocybin,DRUG,heightened sense of meaning and perspective,OUTCOME,POSITIVELY IMPACTS
+2526,psilocybin,DRUG,positive changes in individuals lives,OUTCOME,POSITIVELY IMPACTS
+2527,psilocybin,DRUG,increase in well-being,OUTCOME,POSITIVELY IMPACTS
+2528,psilocybin,DRUG,sense of life priority,OUTCOME,POSITIVELY IMPACTS
+2532,enduring effects,OUTCOME,cancer,HEALTH,POSITIVELY IMPACTS
+2534,death,HEALTH,cancer,HEALTH,POSITIVELY IMPACTS
+2540,DLPFC,NEURAL,enhanced amygdala recruitment,OUTCOME,POSITIVELY IMPACTS
+2543,RSNs,NEURAL,thalamus,NEURAL,POSITIVELY IMPACTS
+2544,LSD,DRUG,thalamus,NEURAL,POSITIVELY IMPACTS
+2545,psilocybin,DRUG,thalamus,NEURAL,POSITIVELY IMPACTS
+2564,hallucinogenic drugs,DRUG,striatum,NEURAL,POSITIVELY IMPACTS
+2566,altered hub connectivity,NEURAL,depression,HEALTH,POSITIVELY IMPACTS
+2567,altered hub connectivity,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+2568,altered hub connectivity,NEURAL,addiction,HEALTH,POSITIVELY IMPACTS
+2570,hallucinogens,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2571,hallucinogens,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+2576,LSD,DRUG,neurovascular coupling,NEURAL,POSITIVELY IMPACTS
+2577,LSD,DRUG,negatively influenced subjective drug effects,OUTCOME,POSITIVELY IMPACTS
+2578,psychedelics,DRUG,emotion,SUBJECTIVE,POSITIVELY IMPACTS
+2579,psychedelics,DRUG,self-regulation,SUBJECTIVE,POSITIVELY IMPACTS
+2580,psychedelics,DRUG,trans-diagnostic treatment mechanisms in psychiatry,OUTCOME,POSITIVELY IMPACTS
+2581,psychedelics,DRUG,development of novel rapid-acting and long-lasting treatment approaches,OUTCOME,POSITIVELY IMPACTS
+2583,psychedelics,DRUG,regulation,SUBJECTIVE,POSITIVELY IMPACTS
+2591,DMN,NEURAL,signal complexity,OUTCOME,POSITIVELY IMPACTS
+2592,LSD,DRUG,signal complexity,OUTCOME,POSITIVELY IMPACTS
+2593,psilocybin,DRUG,functional and directed connectivity,NEURAL,POSITIVELY IMPACTS
+2594,psilocybin,DRUG,increased synchrony of sensory brain regions,NEURAL,POSITIVELY IMPACTS
+2595,psilocybin,DRUG,decreased integrity of associative brain regions,NEURAL,POSITIVELY IMPACTS
+2596,psilocybin,DRUG,entropy,OUTCOME,POSITIVELY IMPACTS
+2597,psilocybin,DRUG,signal complexity,OUTCOME,POSITIVELY IMPACTS
+2598,psilocybin,DRUG,neuronal dynamics,NEURAL,POSITIVELY IMPACTS
+2603,psychedelics,DRUG,neuronal dynamics,NEURAL,POSITIVELY IMPACTS
+2604,psychedelics,DRUG,modulate a person’s self-focus,OUTCOME,POSITIVELY IMPACTS
+2605,psychedelics,DRUG,reduce negative emotional processing,OUTCOME,POSITIVELY IMPACTS
+2606,psychedelics,DRUG,strengthen social,OUTCOME,POSITIVELY IMPACTS
+2607,psychedelics,DRUG,trans-diagnostic mechanisms,OUTCOME,POSITIVELY IMPACTS
+2608,psychedelics,DRUG,long-lasting effects,OUTCOME,POSITIVELY IMPACTS
+2609,psychedelic,DRUG,"molecular, systems-level and functional alterations",OUTCOME,POSITIVELY IMPACTS
+2610,psychedelics,DRUG,"molecular, systems-level and functional alterations",OUTCOME,POSITIVELY IMPACTS
+2611,psychedelic substances,DRUG,"molecular, systems-level and functional alterations",OUTCOME,POSITIVELY IMPACTS
+2612,psilocybin,DRUG,neuromodulator systems,DRUG,POSITIVELY IMPACTS
+2613,psilocybin,DRUG,brain,NEURAL,POSITIVELY IMPACTS
+2614,serotonin system,NEURAL,brain,NEURAL,POSITIVELY IMPACTS
+2616,psilocybin,DRUG,multilevel plasticity,OUTCOME,POSITIVELY IMPACTS
+2620,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,multilevel plasticity,OUTCOME,POSITIVELY IMPACTS
+2621,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,therapeutic action,OUTCOME,POSITIVELY IMPACTS
+2622,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,treatment-resistant depression,HEALTH,POSITIVELY IMPACTS
+2647,Ayahuasca,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2648,Ayahuasca,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+2663,psychedelic,DRUG,mood,OUTCOME,POSITIVELY IMPACTS
+2664,psychedelic,DRUG,reduced feelings of apprehension,OUTCOME,POSITIVELY IMPACTS
+2666,psychedelic,DRUG,anti-depressant and anxiolytic effects,OUTCOME,POSITIVELY IMPACTS
+2667,psychedelic,DRUG,spiritually meaningful,OUTCOME,POSITIVELY IMPACTS
+2668,psychedelic,DRUG,decreased disease-related demoralisation,OUTCOME,POSITIVELY IMPACTS
+2669,psychedelic,DRUG,hopelessness,OUTCOME,POSITIVELY IMPACTS
+2670,psychedelic,DRUG,improved quality of life,OUTCOME,POSITIVELY IMPACTS
+2673,psychedelics,DRUG,self-resolving,OUTCOME,POSITIVELY IMPACTS
+2678,serotonin (5-HT2A) receptor downregulation,NEURAL,suicidality,OUTCOME,POSITIVELY IMPACTS
+2679,psychedelic users,HEALTH,lower rates of psychological distress,OUTCOME,POSITIVELY IMPACTS
+2680,psychedelic users,HEALTH,suicidality,OUTCOME,POSITIVELY IMPACTS
+2681,psychedelics,DRUG,suicidality,OUTCOME,POSITIVELY IMPACTS
+2682,psychedelics,DRUG,lower rates of psychological distress,OUTCOME,POSITIVELY IMPACTS
+2684,psychedelics,DRUG,heightened state of consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+2685,psychedelic,DRUG,heightened state of consciousness,SUBJECTIVE,POSITIVELY IMPACTS
+2694,expectancy,OUTCOME,somatic diseases,HEALTH,POSITIVELY IMPACTS
+2696,psilocybin,DRUG,psychoactive effects,OUTCOME,POSITIVELY IMPACTS
+2700,psychedelics,DRUG,comparable anti-depressant and anxiolytic effects,OUTCOME,POSITIVELY IMPACTS
+2701,Ayahuasca,DRUG,entropy increases,OUTCOME,POSITIVELY IMPACTS
+2702,Ayahuasca,DRUG,geodesic distance,OUTCOME,POSITIVELY IMPACTS
+2703,Ayahuasca,DRUG,clustering coefficient,OUTCOME,POSITIVELY IMPACTS
+2704,Ayahuasca,DRUG,local efficiency,OUTCOME,POSITIVELY IMPACTS
+2706,Ayahuasca,DRUG,increase of local integration,OUTCOME,POSITIVELY IMPACTS
+2707,Ayahuasca,DRUG,the entropy,OUTCOME,POSITIVELY IMPACTS
+2709,the entropy,OUTCOME,increase in entropy,OUTCOME,POSITIVELY IMPACTS
+2710,Ayahuasca,DRUG,increase in entropy,OUTCOME,POSITIVELY IMPACTS
+2711,Ayahuasca,DRUG,increase of geodesic distance,OUTCOME,POSITIVELY IMPACTS
+2712,Ayahuasca,DRUG,decrease of global efficiency,OUTCOME,POSITIVELY IMPACTS
+2713,Ayahuasca,DRUG,less globally integrated,OUTCOME,POSITIVELY IMPACTS
+2720,psychedelics,DRUG,elevated entropy,OUTCOME,POSITIVELY IMPACTS
+2722,psychedelic state,SUBJECTIVE,elevated entropy,OUTCOME,POSITIVELY IMPACTS
+2723,ordinary consciousness,SUBJECTIVE,elevated entropy,OUTCOME,POSITIVELY IMPACTS
+2724,ordinary consciousness,SUBJECTIVE,reduction of freedom,OUTCOME,POSITIVELY IMPACTS
+2728,psychedelics,DRUG,reduction of freedom,OUTCOME,POSITIVELY IMPACTS
+2731,primary consciousness,SUBJECTIVE,elevated entropy,OUTCOME,POSITIVELY IMPACTS
+2732,primary consciousness,SUBJECTIVE,reduction of freedom,OUTCOME,POSITIVELY IMPACTS
+2735,ordinary consciousness,SUBJECTIVE,increase in entropy,OUTCOME,POSITIVELY IMPACTS
+2738,primary consciousness,SUBJECTIVE,increase in entropy,OUTCOME,POSITIVELY IMPACTS
+2741,the entropy increases,OUTCOME,increase in entropy,OUTCOME,POSITIVELY IMPACTS
+2742,the entropy increases,OUTCOME,more flexible state,OUTCOME,POSITIVELY IMPACTS
+2745,psilocybin,DRUG,increases of a different entropy,OUTCOME,POSITIVELY IMPACTS
+2763,LSD,DRUG,increases in measures of entropy,OUTCOME,POSITIVELY IMPACTS
+2765,psilocybin,DRUG,increases in measures of entropy,OUTCOME,POSITIVELY IMPACTS
+2766,ketamine,DRUG,increases in measures of entropy,OUTCOME,POSITIVELY IMPACTS
+2767,psychedelics,DRUG,increase the entropy in brain functions,OUTCOME,POSITIVELY IMPACTS
+2769,SLN,NEURAL,the self,SUBJECTIVE,POSITIVELY IMPACTS
+2770,SLN,NEURAL,self-,SUBJECTIVE,POSITIVELY IMPACTS
+2774,mystical-type,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+2775,mystical-type,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2777,psychological insight experiences,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+2778,psychological insight experiences,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2786,mystical experiences,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+2788,mystical experiences,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2797,psychological insight,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2799,insight,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2801,Insightful as well as mystical-type experiences,SUBJECTIVE,depression,HEALTH,POSITIVELY IMPACTS
+2802,Insightful as well as mystical-type experiences,SUBJECTIVE,anxiety,HEALTH,POSITIVELY IMPACTS
+2803,psychedelic,DRUG,alcohol use disorder,HEALTH,POSITIVELY IMPACTS
+2804,psychedelic effects,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2805,psychedelic effects,OUTCOME,anxiety,HEALTH,POSITIVELY IMPACTS
+2806,psychological flexibility,OUTCOME,depression,HEALTH,POSITIVELY IMPACTS
+2807,psychological flexibility,OUTCOME,anxiety,HEALTH,POSITIVELY IMPACTS
+2808,psilocybin,DRUG,) addiction,HEALTH,POSITIVELY IMPACTS
+2809,psychedelics,DRUG,biologically verified abstinence at 6 months post-treatment,OUTCOME,POSITIVELY IMPACTS
+2810,psychedelics,DRUG,mindfulness/,SUBJECTIVE,POSITIVELY IMPACTS
+2811,psychedelics,DRUG,acceptance,SUBJECTIVE,POSITIVELY IMPACTS
+2812,psychedelics,DRUG,commitment and behavior change processes,OUTCOME,POSITIVELY IMPACTS
+2816,psychedelic compounds,DRUG,"rapid, long-lasting changes in mood and behavior",OUTCOME,POSITIVELY IMPACTS
+2817,DMT,DRUG,increase swimming behavior in the forced swim test,OUTCOME,POSITIVELY IMPACTS
+2818,DMT,DRUG,"promoting the rapid growth of dendritic branches, spines, and synapses",OUTCOME,POSITIVELY IMPACTS
+2820,psychedelics,DRUG,increase swimming behavior in the forced swim test,OUTCOME,POSITIVELY IMPACTS
+2821,psychedelics,DRUG,"promoting the rapid growth of dendritic branches, spines, and synapses",OUTCOME,POSITIVELY IMPACTS
+2831,DMT,DRUG,spontaneous EPSCs,NEURAL,POSITIVELY IMPACTS
+2839,DMT,DRUG,very different biochemical and structural phenotypes,OUTCOME,POSITIVELY IMPACTS
+2840,DMT,DRUG,promote sufficient plasticity to strengthen key circuits involved in the regulation of mood and fear,OUTCOME,POSITIVELY IMPACTS
+2842,DMT,DRUG,increase glutamate release in the cortex,OUTCOME,POSITIVELY IMPACTS
+2843,psychedelics,DRUG,increase glutamate release in the cortex,OUTCOME,POSITIVELY IMPACTS
+2847,psychedelic compounds,DRUG,behavioral outcomes,OUTCOME,POSITIVELY IMPACTS
+2848,psychedelic compounds,DRUG,gene expression of several genes related to neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2853,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,tolerance in humans,OUTCOME,POSITIVELY IMPACTS
+2854,selective serotonin reuptake inhibitors,ANTIDEPRESSANT_DRUG,repair of damaged circuits relevant to mood and anxiety,OUTCOME,POSITIVELY IMPACTS
+2855,DMT,DRUG,tolerance in humans,OUTCOME,POSITIVELY IMPACTS
+2856,DMT,DRUG,repair of damaged circuits relevant to mood and anxiety,OUTCOME,POSITIVELY IMPACTS
+2859,nonsubjective anesthesia,SUBJECTIVE,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+2860,nonhallucinogenic psychoplastogens,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+2862,psychedelic compounds,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+2863,TBG,DRUG,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+2868,mystical-like experiences,SUBJECTIVE,therapeutic effects,OUTCOME,POSITIVELY IMPACTS
+2869,psychedelics,DRUG,enhanced neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2870,hallucinogenic effects,OUTCOME,enhanced neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2873,serotonergic psychedelic,DRUG,enhanced neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2874,serotonergic psychedelic,DRUG,postoperative mood,OUTCOME,POSITIVELY IMPACTS
+2875,serotonergic psychedelic,DRUG,depressed,HEALTH,POSITIVELY IMPACTS
+2876,ketamine,DRUG,postoperative mood,OUTCOME,POSITIVELY IMPACTS
+2877,ketamine-induced mystical experiences,OUTCOME,postoperative mood,OUTCOME,POSITIVELY IMPACTS
+2878,psychedelics,DRUG,postoperative mood,OUTCOME,POSITIVELY IMPACTS
+2879,psychedelics,DRUG,depressed,HEALTH,POSITIVELY IMPACTS
+2880,psychedelics,DRUG,therapeutic responses,OUTCOME,POSITIVELY IMPACTS
+2882,psychedelics,DRUG,exceptionally strong placebo effect,OUTCOME,POSITIVELY IMPACTS
+2888,mystical-type experiences,SUBJECTIVE,therapeutic responses,OUTCOME,POSITIVELY IMPACTS
+2894,drugs,DRUG,therapeutic responses,OUTCOME,POSITIVELY IMPACTS
+2895,drugs,DRUG,exceptionally strong placebo effect,OUTCOME,POSITIVELY IMPACTS
+2896,drugs,DRUG,heightened neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2897,drugs,DRUG,treating,OUTCOME,POSITIVELY IMPACTS
+2898,drugs,DRUG,depression,HEALTH,POSITIVELY IMPACTS
+2899,drugs,DRUG,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+2900,drugs,DRUG,neurobiology,NEURAL,POSITIVELY IMPACTS
+2901,drugs,DRUG,neural plasticity,OUTCOME,POSITIVELY IMPACTS
+2907,rewiring pathological neural circuitry,OUTCOME,neuropsychiatric diseases,HEALTH,POSITIVELY IMPACTS
+2932,psilocybin,DRUG,terminal cancer diagnoses,HEALTH,POSITIVELY IMPACTS
+2935,psilocybin,DRUG,reducing symptoms of anxiety,OUTCOME,POSITIVELY IMPACTS
+2937,Psychedelics,DRUG,disrupting ordinary language processes,OUTCOME,POSITIVELY IMPACTS
+2938,Psychedelics,DRUG,enhance psychological flexibility,OUTCOME,POSITIVELY IMPACTS
+2939,psilocybin,DRUG,psychological flexibility,OUTCOME,POSITIVELY IMPACTS
+2941,psilocybin,DRUG,"habits of acceptance, connection and embodiment",OUTCOME,POSITIVELY IMPACTS
+2942,psilocybin,DRUG,transformational processes,OUTCOME,POSITIVELY IMPACTS
+2943,LSD,DRUG,subjective effects,OUTCOME,POSITIVELY IMPACTS
+2944,LSD,DRUG,µg,DRUG,POSITIVELY IMPACTS
+2946,LSD,DRUG,longer terminal elimination half-life,OUTCOME,POSITIVELY IMPACTS
+2952,LSD,DRUG,increased subjective effects,OUTCOME,POSITIVELY IMPACTS
+2955,LSD,DRUG,positive subjective effects,OUTCOME,POSITIVELY IMPACTS
+2964,LSD,DRUG,ego dissolution,SUBJECTIVE,POSITIVELY IMPACTS
+2965,LSD,DRUG,disembodiment,SUBJECTIVE,POSITIVELY IMPACTS
+2968,LSD,DRUG,psychedelic doses,DRUG,POSITIVELY IMPACTS
+2973,LSD,DRUG,insightfulness,OUTCOME,POSITIVELY IMPACTS
+2974,LSD,DRUG,changed meaning of percepts,OUTCOME,POSITIVELY IMPACTS
+2975,µg,DRUG,µg,DRUG,POSITIVELY IMPACTS
+2976,µg,DRUG,insightfulness,OUTCOME,POSITIVELY IMPACTS
+2977,µg,DRUG,changed meaning of percepts,OUTCOME,POSITIVELY IMPACTS
+2979,LSD,DRUG,higher ratings of blissful state,OUTCOME,POSITIVELY IMPACTS
+2982,LSD,DRUG,"fear, open, and trust on the VAS",OUTCOME,POSITIVELY IMPACTS
+2997,LSD,DRUG,positive effects,OUTCOME,POSITIVELY IMPACTS
+3000,LSD,DRUG,lower anxiety ratings,OUTCOME,POSITIVELY IMPACTS
+3001,LSD,DRUG,positive mood effects,OUTCOME,POSITIVELY IMPACTS
+3003,psychedelics,DRUG,µg,DRUG,POSITIVELY IMPACTS
+3004,psychedelics,DRUG,lower anxiety ratings,OUTCOME,POSITIVELY IMPACTS
+3005,psychedelics,DRUG,positive mood effects,OUTCOME,POSITIVELY IMPACTS
+3014,LSD,DRUG,psychotropic effects,OUTCOME,POSITIVELY IMPACTS
+3022,LSD,DRUG,prevented the acute effects,OUTCOME,POSITIVELY IMPACTS
+3032,ketanserin,DRUG,µg,DRUG,POSITIVELY IMPACTS
+3033,ketanserin,DRUG,prevented the acute effects,OUTCOME,POSITIVELY IMPACTS
+3034,ketanserin,DRUG,adverse effects,OUTCOME,POSITIVELY IMPACTS
+3038,µg,DRUG,adverse effects,OUTCOME,POSITIVELY IMPACTS
+3040,µg,DRUG,lower depression ratings,OUTCOME,POSITIVELY IMPACTS
+3053,Psychedelic microdoses,DRUG,µg,DRUG,POSITIVELY IMPACTS
+3054,Psychedelic microdoses,DRUG,subjective “any drug effects,OUTCOME,POSITIVELY IMPACTS
+3055,Psychedelic microdoses,DRUG,microdoses,DRUG,POSITIVELY IMPACTS
+3056,Psychedelic microdoses,DRUG,prolonged effects on mood,OUTCOME,POSITIVELY IMPACTS
+3057,Psychedelic microdoses,DRUG,adverse subjective effects,OUTCOME,POSITIVELY IMPACTS
+3058,Psychedelic microdoses,DRUG,subjective effects,OUTCOME,POSITIVELY IMPACTS
+3060,LSD,DRUG,vigilance reduction,OUTCOME,POSITIVELY IMPACTS
+3077,LSD,DRUG,tartrate,DRUG,POSITIVELY IMPACTS
+3121,LSD,DRUG,psychoactive in,OUTCOME,POSITIVELY IMPACTS
+3137,LSD,DRUG,minidoses,DRUG,POSITIVELY IMPACTS
+3141,µg,DRUG,psychoactive in,OUTCOME,POSITIVELY IMPACTS
+3161,µg,DRUG,microdoses,DRUG,POSITIVELY IMPACTS
+3170,LSD,DRUG,enhance blinding between the different conditions,OUTCOME,POSITIVELY IMPACTS
+3171,ketanserin-LSD,DRUG,anxiety,HEALTH,POSITIVELY IMPACTS
+3174,serotoninergic hallucinogens,DRUG,antidepressive,OUTCOME,POSITIVELY IMPACTS
+3175,serotoninergic hallucinogens,DRUG,anxiolytic,OUTCOME,POSITIVELY IMPACTS
+3176,serotoninergic hallucinogens,DRUG,antiaddictive,OUTCOME,POSITIVELY IMPACTS
+3177,psilocybin,DRUG,cancer-related depression,HEALTH,POSITIVELY IMPACTS
+3183,ayahuasca,DRUG,cancer-related depression,HEALTH,POSITIVELY IMPACTS
+3191,psilocybin,DRUG,region-dependent alterations in neurometabolite concentrations,OUTCOME,POSITIVELY IMPACTS
+3209,psilocybin,DRUG,reduced absolute CBF,OUTCOME,POSITIVELY IMPACTS
+3217,psilocybin,DRUG,increases in feelings of ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3218,psychedelic,DRUG,increases in feelings of ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3219,psilocybin,DRUG,subjective experience of sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+3221,psilocybin,DRUG,feelings of AED,OUTCOME,POSITIVELY IMPACTS
+3222,psilocybin,DRUG,ego pathology,OUTCOME,POSITIVELY IMPACTS
+3223,psilocybin,DRUG,feelings of anxiety,OUTCOME,POSITIVELY IMPACTS
+3226,psychedelic drugs,DRUG,feelings of AED,OUTCOME,POSITIVELY IMPACTS
+3227,psychedelic drugs,DRUG,ego pathology,OUTCOME,POSITIVELY IMPACTS
+3228,psychedelic drugs,DRUG,feelings of anxiety,OUTCOME,POSITIVELY IMPACTS
+3229,mPFC,NEURAL,feelings of anxiety,OUTCOME,POSITIVELY IMPACTS
+3230,mPFC,NEURAL,anxiety,HEALTH,POSITIVELY IMPACTS
+3232,mPFC,NEURAL,feelings of positively experienced ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3236,psychedelic,DRUG,feelings of positively experienced ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3242,psilocybin,DRUG,feelings of positively experienced ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3243,MTL,NEURAL,feelings of depersonalization,OUTCOME,POSITIVELY IMPACTS
+3244,DMN circuitry,NEURAL,feelings of positively experienced ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3245,DMN circuitry,NEURAL,feelings of depersonalization,OUTCOME,POSITIVELY IMPACTS
+3246,psychedelic drug,DRUG,feelings of depersonalization,OUTCOME,POSITIVELY IMPACTS
+3247,psychedelic drug,DRUG,feelings of (positive) ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3248,DMN,NEURAL,feelings of (positive) ego dissolution,OUTCOME,POSITIVELY IMPACTS
+3251,sensorimotor network,NEURAL,post-traumatic stress disorders,HEALTH,POSITIVELY IMPACTS
+3252,neurobiology,NEURAL,post-traumatic stress disorders,HEALTH,POSITIVELY IMPACTS
+3253,psychedelic,DRUG,neurobiology,NEURAL,POSITIVELY IMPACTS
+3254,psychedelic,DRUG,therapeutic relief,OUTCOME,POSITIVELY IMPACTS
+3257,psychedelic,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+3258,psychedelic,DRUG,post-traumatic stress disorders,HEALTH,POSITIVELY IMPACTS
+3261,psychedelics,DRUG,addiction,HEALTH,POSITIVELY IMPACTS
+3262,psychedelics,DRUG,post-traumatic stress disorders,HEALTH,POSITIVELY IMPACTS
+3263,psychedelics,DRUG,neurobiology,NEURAL,POSITIVELY IMPACTS
+3264,psychedelics,DRUG,drug-induced ego dissolution,HEALTH,POSITIVELY IMPACTS
+3265,psychedelics,DRUG,therapeutic relief,OUTCOME,POSITIVELY IMPACTS
+3270,psychedelics,DRUG,increases in well-being,OUTCOME,POSITIVELY IMPACTS
+3274,psilocybin,DRUG,disrupted neuronal function,OUTCOME,POSITIVELY IMPACTS
+3277,LSD,DRUG,increased amygdala seed-based connectivity,OUTCOME,POSITIVELY IMPACTS
+3278,LSD,DRUG,decreased amygdala connectivity,OUTCOME,POSITIVELY IMPACTS
+3286,LSD,DRUG,resting state connectivity,NEURAL,POSITIVELY IMPACTS
+3287,LSD,DRUG,changes in amygdala responses,OUTCOME,POSITIVELY IMPACTS
+3288,LSD,DRUG,prefrontal cortex,NEURAL,POSITIVELY IMPACTS
+3291,LSD,DRUG,connectivity a,NEURAL,POSITIVELY IMPACTS
+3292,psilocybin,DRUG,resting state connectivity,NEURAL,POSITIVELY IMPACTS
+3293,psilocybin,DRUG,changes in amygdala responses,OUTCOME,POSITIVELY IMPACTS
+3296,psilocybin,DRUG,prefrontal cortex,NEURAL,POSITIVELY IMPACTS
+3299,psilocybin,DRUG,connectivity a,NEURAL,POSITIVELY IMPACTS
+3300,psilocybin,DRUG,modulated amygdala activation,OUTCOME,POSITIVELY IMPACTS
+3301,psilocybin,DRUG,decreased amygdala connectivity,OUTCOME,POSITIVELY IMPACTS
+3305,drugs,DRUG,decreased amygdala connectivity,OUTCOME,POSITIVELY IMPACTS
+3306,drugs,DRUG,"dampen, and thereby normalize, disrupted amygdala responses",OUTCOME,POSITIVELY IMPACTS
+3311,selective serotonin reuptake inhibitors (SSRIs),ANTIDEPRESSANT_DRUG,"dampen, and thereby normalize, disrupted amygdala responses",OUTCOME,POSITIVELY IMPACTS
+3313,selective serotonin reuptake inhibitors (SSRIs),ANTIDEPRESSANT_DRUG,enhancing cortico-limbic connectivity in the brain,OUTCOME,POSITIVELY IMPACTS
+3316,SSRIs,ANTIDEPRESSANT_DRUG,enhancing cortico-limbic connectivity in the brain,OUTCOME,POSITIVELY IMPACTS
+3317,SSRIs,ANTIDEPRESSANT_DRUG,emotion regulation,OUTCOME,POSITIVELY IMPACTS
+3319,LSD,DRUG,emotional processing,OUTCOME,POSITIVELY IMPACTS
+3322,LSD,DRUG,"connectivity,",NEURAL,POSITIVELY IMPACTS
+3324,subjective experience,SUBJECTIVE,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+3325,psilocybin,DRUG,sense of self,SUBJECTIVE,POSITIVELY IMPACTS
+3327,psilocybin,DRUG,improve they affective state,OUTCOME,POSITIVELY IMPACTS
+3328,psilocybin,DRUG,long lasting,OUTCOME,POSITIVELY IMPACTS
+3329,psilocybin,DRUG,long lasting antidepressant effects,OUTCOME,POSITIVELY IMPACTS
+3330,psilocybin,DRUG,symptoms of depression,OUTCOME,POSITIVELY IMPACTS
+3331,psilocybin,DRUG,cellular proliferation,NEURAL,POSITIVELY IMPACTS
+3332,psilocybin,DRUG,increased synaptic connectivity,NEURAL,POSITIVELY IMPACTS
+3333,psilocybin,DRUG,anti-inflammatory effects,NEURAL,POSITIVELY IMPACTS
+3338,psilocybin,DRUG,behavioral flexibility,OUTCOME,POSITIVELY IMPACTS
+3342,psilocybin,DRUG,threat of drowning,SUBJECTIVE,POSITIVELY IMPACTS
+3343,psilocybin,DRUG,coping strategy,OUTCOME,POSITIVELY IMPACTS
