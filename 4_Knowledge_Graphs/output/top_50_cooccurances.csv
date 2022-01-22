@@ -1,0 +1,51 @@
+﻿entity1,entity2,cooccurrence
+psilocybin,depression,48
+psilocybin,anxiety,47
+anxiety,depression,41
+psilocybin,psychedelics,40
+psilocybin,LSD,34
+depression,psychedelics,34
+psilocybin,psychedelic,33
+anxiety,psychedelics,30
+psychedelics,psychedelic,30
+LSD,psychedelics,27
+anxiety,LSD,27
+depression,psychedelic,26
+psilocybin,ayahuasca,26
+depression,LSD,26
+depression,ayahuasca,24
+anxiety,psychedelic,23
+psilocybin,brain,23
+anxiety,ayahuasca,22
+psychedelics,ayahuasca,21
+depression,brain,21
+LSD,ayahuasca,21
+psychedelics,brain,20
+LSD,psychedelic,20
+LSD,brain,19
+anxiety,brain,17
+psilocybin,treatment-resistant depression,16
+ayahuasca,DMT,16
+depression,antidepressant effects,15
+psilocybin,therapeutic effects,15
+depression,ketamine,15
+psychedelic,ayahuasca,15
+ayahuasca,brain,15
+psychedelic,brain,14
+psilocybin,mood,14
+depression,treatment-resistant depression,14
+LSD,DMT,14
+depression,DMT,14
+psilocybin,Psilocybin,14
+psilocybin,DMN,14
+psilocybin,ketamine,13
+depression,antidepressants,13
+anxiety,therapeutic effects,13
+anxiety,mood,13
+anxiety,ketamine,13
+psilocybin,5-HT2A receptor,13
+depression,depressed patients,13
+anxiety,DMT,13
+depression,therapeutic effects,13
+psilocybin,DMT,13
+psilocybin,antidepressant effects,12
